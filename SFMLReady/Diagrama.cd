@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Generations.DefaultClasses.Animal" Collapsed="true">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAACAAAAAACABAQAIABAAAAAAAAAAAFA=</HashCode>
+      <FileName>Generations\DefaultClasses\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generations.DefaultClasses.Entity" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAAAAAAAAAAAAAAAAgAAAAIAAAA=</HashCode>
+      <FileName>Generations\DefaultClasses\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Generations.DefaultClasses.Food" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Generations\DefaultClasses\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generations.DefaultClasses.MovingEntity" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Generations\DefaultClasses\MovingEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generations.Items.Apple" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAQAAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Generations\Items\Apple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generations.Items.Rabbit" Collapsed="true">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAggCAAQAAAAAAAAAIAAAAAAEAAAgABAA=</HashCode>
+      <FileName>Generations\Items\Rabbit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generations.Simulation" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAEAAAAAABQ=</HashCode>
+      <FileName>Generations\Simulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Generations.DefaultClasses.AnimalData" Collapsed="true">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAACABAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Generations\DefaultClasses\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Generations.Interfaces.IDrawableEntity" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Generations\Interfaces\IDrawableEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Generations.Interfaces.ISimulableEntity" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Generations\Interfaces\ISimulableEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Generations.Interfaces.IUpdateableEntity" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Generations\Interfaces\IUpdateableEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -14,7 +14,7 @@ namespace Generations.DefaultClasses
         {
             get
             {
-                return Math.PI / 4;
+                return 0.5;
             }
         }
 
@@ -23,25 +23,24 @@ namespace Generations.DefaultClasses
         public int FoodQuantity;
         
 
-        public Animal(Vector2f position, Vector2f facing, AnimalData data) : base(position, facing)
+        public Animal(Vector2f position, Vector2f facing, AnimalData data, Random rd) : base(position, facing)
         {
             Data = data;
             Target = null;
-            rd = new Random();
+            this.rd = rd;
         }
 
         public AnimalData Data { get; private set; }
 
         protected virtual void Find(List<Entity> targets)
         {
-            if (Target != null)
-                foreach (Entity item in targets)
+            foreach (Entity item in targets)
+            {
+                if (Data.ViewRange < Vector2.Distance(this.Position, item.Position))
                 {
-                    if (Data.ViewRange < Vector2.Distance(this.Position, item.Position))
-                    {
-                        Target = item;
-                    }
+                    Target = item;
                 }
+            }
         }
 
         public virtual void Act()
@@ -66,7 +65,7 @@ namespace Generations.DefaultClasses
             double random = rd.NextDouble();
             double variance = (random * FacingVariance) - FacingVariance / 2;
 
-            Facing += new Vector2f((float)Math.Cos(variance), (float)Math.Sin(variance));
+            Facing += new Vector2f((float)variance, (float)variance);
             Facing = Vector2.Normalize(Facing);
         }
 

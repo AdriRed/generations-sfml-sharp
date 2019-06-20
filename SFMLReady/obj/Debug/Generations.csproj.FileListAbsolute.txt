@@ -16,3 +16,21 @@ D:\Users\Adri\Documents\Visual Studio Projects\generations-sfml-sharp\SFMLReady\
 D:\Users\Adri\Documents\Visual Studio Projects\generations-sfml-sharp\SFMLReady\obj\Debug\Generations.csproj.CopyComplete
 D:\Users\Adri\Documents\Visual Studio Projects\generations-sfml-sharp\SFMLReady\obj\Debug\Generations.exe
 D:\Users\Adri\Documents\Visual Studio Projects\generations-sfml-sharp\SFMLReady\obj\Debug\Generations.pdb
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\System\extlib\csfml-audio-2.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\System\extlib\csfml-graphics-2.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\System\extlib\csfml-system-2.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\System\extlib\csfml-window-2.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\System\extlib\openal32.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\System\extlib\OpenTK.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\Generations.exe.config
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\Generations.exe
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\Generations.pdb
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\sfml-audio.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\sfml-graphics.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\sfml-system.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\bin\Debug\sfml-window.dll
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\obj\Debug\Generations.csprojAssemblyReference.cache
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\obj\Debug\Generations.csproj.CoreCompileInputs.cache
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\obj\Debug\Generations.csproj.CopyComplete
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\obj\Debug\Generations.exe
+C:\Users\arojo\Desktop\GITS\generations-sfml-sharp\SFMLReady\obj\Debug\Generations.pdb
