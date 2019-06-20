@@ -13,6 +13,16 @@ namespace Generations.Items
 {
     class Rabbit : Animal
     {
+        private readonly float EnergyDefault = 100000;
+        private float DeltaEnergy
+        {
+            get
+            {
+                return GeneticData.Speed * GeneticData.ViewRange;
+            }
+        }
+        private static float Size = 7, Outline = 1;
+        private static Color OutlineColor = Color.Black, FillColor = Color.Yellow, RangeColor = new Color(0, 0, 0, 0);
         protected override double FacingVariance
         {
             get
@@ -21,19 +31,18 @@ namespace Generations.Items
             }
         }
 
+        private bool InHouse = false;
         private Shape shape;
         private Shape rangeShape;
-        private static float Size = 15, Outline = 1;
-        private static Color OutlineColor = Color.Black, FillColor = Color.Yellow, RangeColor = new Color(0, 0, 0, 0);
         private List<Entity> Entities;
 
-        public Rabbit(Vector2f position, Vector2f facing, AnimalData data, Random rd, List<Entity> entities) : base(position, facing, data, rd)
+        public Rabbit(Vector2f position, Vector2f facing, GeneticData data, Random rd, List<Entity> entities, Vector2f limits, WorldTime time) : base(position, facing, data, rd, limits, time)
         {
-            shape = new RectangleShape(new Vector2f(Size, Size));
+            shape = new CircleShape(Data.Genes.ActRange, 3);
             shape.FillColor = GetColorByData();
             shape.OutlineThickness = Outline;
             shape.OutlineColor = OutlineColor;
-            shape.Origin = new Vector2f(Size / 2, Size / 2);
+            shape.Origin = new Vector2f(Size, Size);
             Entities = entities;
 
             rangeShape = new CircleShape(data.ViewRange);
@@ -41,14 +50,16 @@ namespace Generations.Items
             rangeShape.OutlineThickness = Outline;
             rangeShape.FillColor = RangeColor;
             rangeShape.Origin = new Vector2f(data.ViewRange, data.ViewRange);
+
+            Energy = EnergyDefault;
         }
 
         private Color GetColorByData()
         {
             byte
-                r = 128,
-                g = (byte)( (Data.Speed - DefaultsData.SpeedBase) / DefaultsData.SpeedVariation * 256 ),
-                b = (byte)( (Data.ViewRange - DefaultsData.ViewRangeBase) / DefaultsData.ViewRangeVariation * 256 );
+                g = (byte)((GeneticData.MutationRate - DefaultsData.MutationBase) / DefaultsData.MutationVariation * 256),
+                r = (byte)( (GeneticData.Speed - DefaultsData.SpeedBase) / DefaultsData.SpeedVariation * 256 ),
+                b = (byte)( (GeneticData.ViewRange - DefaultsData.ViewRangeBase) / DefaultsData.ViewRangeVariation * 256 );
 
 
             return new Color(r, g, b);
@@ -56,21 +67,27 @@ namespace Generations.Items
 
         public override void Draw(RenderWindow Window)
         {
-            shape.Position = Position;
-            shape.Rotation = (float)(Math.Atan(Facing.Y / Facing.X) * 180f / Math.PI);
-            Window.Draw(shape);
-
-            rangeShape.Position = Position;
-            Window.Draw(rangeShape);
+            if (!InHouse)
+            {
+                Window.Draw(shape);
+                Window.Draw(rangeShape);
+            }
         }
 
         protected override void Find(List<Entity> targets)
         {
-            Target = null;
+            if (FoodQuantity > 0)
+            {
+                Target = targets[0];
+            } else
+            {
+                Target = null;
+            }
+            
             foreach (Entity item in targets)
             {
                 if (item is Food f && 
-                    Data.ViewRange >= Vector2.Distance(this.Position, item.Position))
+                    GeneticData.ViewRange >= Vector2.Distance(this.Position, item.Position))
                 {
                     if (Target != null)
                     {
@@ -88,9 +105,46 @@ namespace Generations.Items
 
         public override void Update(float seconds)
         {
-            Find(Entities);
-            Act();
-            Move(Data.Speed, seconds);
+            if (!InHouse)
+            {
+                Find(Entities);
+                Act();
+                Move(GeneticData.Speed, seconds);
+                Energy -= DeltaEnergy * seconds;
+
+                if (Energy <= 0 || Time.FinishedDay)
+                {
+                    CanDispose = true;
+                }
+
+                shape.Position = Position;
+                shape.Rotation = (float)(Math.Atan(Facing.Y / Facing.X) * 180f / Math.PI);
+                rangeShape.Position = Position;
+            }
+            
+        }
+
+        protected override void Interactuate()
+        {
+            if (Target is Food)
+            {
+                Eat();
+            }
+            if (Target is House)
+            {
+                InHouse = true;
+            }
+        }
+
+        public override void Move(float speed, float seconds)
+        {
+            Vector2f nextPosition = Position + Facing * speed * seconds;
+
+            if (nextPosition.X >= 0 && nextPosition.X <= WorldLimits.X &&
+                nextPosition.Y >= 0 && nextPosition.Y <= WorldLimits.Y)
+            {
+                Position = nextPosition;
+            }
         }
     }
 }

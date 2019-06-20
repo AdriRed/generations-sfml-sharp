@@ -1,0 +1,3758 @@
+1,Total animals,233
+23,Id,0
+4,Survived Animals,19
+5,Total Animals,19
+6,Available Food,24
+
+78,Id,E
+9,Food Quantity,1
+10,View Range,82,70525
+11,Speed,3,125404
+12,Act Range,5
+13,Mutation Rate,-3,331254
+
+1415,Id,I
+16,Food Quantity,2
+17,View Range,84,29933
+18,Speed,4,711675
+19,Act Range,5
+20,Mutation Rate,3,895024
+
+2122,Id,O
+23,Food Quantity,1
+24,View Range,73,38651
+25,Speed,5,409544
+26,Act Range,5
+27,Mutation Rate,-2,274142
+
+2829,Id,Q
+30,Food Quantity,1
+31,View Range,86,65938
+32,Speed,4,680126
+33,Act Range,5
+34,Mutation Rate,3,813772
+
+3536,Id,R
+37,Food Quantity,2
+38,View Range,77,15611
+39,Speed,4,641861
+40,Act Range,5
+41,Mutation Rate,-0,2862277
+
+4243,Id,T
+44,Food Quantity,1
+45,View Range,86,87805
+46,Speed,3,98246
+47,Act Range,5
+48,Mutation Rate,-1,562943
+
+4950,Id,U
+51,Food Quantity,1
+52,View Range,77,58801
+53,Speed,4,818453
+54,Act Range,5
+55,Mutation Rate,4,600865
+
+5657,Id,W
+58,Food Quantity,1
+59,View Range,70,20193
+60,Speed,6,247157
+61,Act Range,5
+62,Mutation Rate,2,466098
+
+6364,Id,Y
+65,Food Quantity,1
+66,View Range,89,44902
+67,Speed,6,421221
+68,Act Range,5
+69,Mutation Rate,-0,761112
+
+7071,Id,Z
+72,Food Quantity,2
+73,View Range,82,78029
+74,Speed,6,239994
+75,Act Range,5
+76,Mutation Rate,-3,076876
+
+7778,Id,]
+79,Food Quantity,1
+80,View Range,86,56601
+81,Speed,5,034059
+82,Act Range,5
+83,Mutation Rate,-4,509165
+
+8485,Id,^
+86,Food Quantity,1
+87,View Range,81,65321
+88,Speed,3,062875
+89,Act Range,5
+90,Mutation Rate,3,445953
+
+9192,Id,`
+93,Food Quantity,1
+94,View Range,70,61039
+95,Speed,6,232378
+96,Act Range,5
+97,Mutation Rate,5,059803
+
+9899,Id,c
+100,Food Quantity,1
+101,View Range,81,26777
+102,Speed,3,356554
+103,Act Range,5
+104,Mutation Rate,-2,232746
+
+105106,Id,e
+107,Food Quantity,2
+108,View Range,78,04607
+109,Speed,4,012207
+110,Act Range,5
+111,Mutation Rate,-2,773454
+
+112113,Id,f
+114,Food Quantity,2
+115,View Range,75,21062
+116,Speed,5,821407
+117,Act Range,5
+118,Mutation Rate,-2,625039
+
+119120,Id,j
+121,Food Quantity,1
+122,View Range,70,70115
+123,Speed,4,393878
+124,Act Range,5
+125,Mutation Rate,4,509479
+
+126127,Id,k
+128,Food Quantity,1
+129,View Range,85,0531
+130,Speed,3,523571
+131,Act Range,5
+132,Mutation Rate,0,2640775
+
+133134,Id,m
+135,Food Quantity,1
+136,View Range,88,4946
+137,Speed,6,43012
+138,Act Range,5
+139,Mutation Rate,2,127145
+
+140141,Id,1
+142,Survived Animals,12
+143,Total Animals,31
+144,Available Food,21
+
+145146,Id,E
+147,Food Quantity,0
+148,View Range,82,70525
+149,Speed,3,125404
+150,Act Range,5
+151,Mutation Rate,-3,331254
+
+152153,Id,I
+154,Food Quantity,0
+155,View Range,84,29933
+156,Speed,4,711675
+157,Act Range,5
+158,Mutation Rate,3,895024
+
+159160,Id,O
+161,Food Quantity,0
+162,View Range,73,38651
+163,Speed,5,409544
+164,Act Range,5
+165,Mutation Rate,-2,274142
+
+166167,Id,Q
+168,Food Quantity,0
+169,View Range,86,65938
+170,Speed,4,680126
+171,Act Range,5
+172,Mutation Rate,3,813772
+
+173174,Id,R
+175,Food Quantity,0
+176,View Range,77,15611
+177,Speed,4,641861
+178,Act Range,5
+179,Mutation Rate,-0,2862277
+
+180181,Id,T
+182,Food Quantity,0
+183,View Range,86,87805
+184,Speed,3,98246
+185,Act Range,5
+186,Mutation Rate,-1,562943
+
+187188,Id,U
+189,Food Quantity,0
+190,View Range,77,58801
+191,Speed,4,818453
+192,Act Range,5
+193,Mutation Rate,4,600865
+
+194195,Id,W
+196,Food Quantity,0
+197,View Range,70,20193
+198,Speed,6,247157
+199,Act Range,5
+200,Mutation Rate,2,466098
+
+201202,Id,Y
+203,Food Quantity,0
+204,View Range,89,44902
+205,Speed,6,421221
+206,Act Range,5
+207,Mutation Rate,-0,761112
+
+208209,Id,Z
+210,Food Quantity,0
+211,View Range,82,78029
+212,Speed,6,239994
+213,Act Range,5
+214,Mutation Rate,-3,076876
+
+215216,Id,]
+217,Food Quantity,0
+218,View Range,86,56601
+219,Speed,5,034059
+220,Act Range,5
+221,Mutation Rate,-4,509165
+
+222223,Id,^
+224,Food Quantity,0
+225,View Range,81,65321
+226,Speed,3,062875
+227,Act Range,5
+228,Mutation Rate,3,445953
+
+229230,Id,`
+231,Food Quantity,0
+232,View Range,70,61039
+233,Speed,6,232378
+234,Act Range,5
+235,Mutation Rate,5,059803
+
+236237,Id,c
+238,Food Quantity,0
+239,View Range,81,26777
+240,Speed,3,356554
+241,Act Range,5
+242,Mutation Rate,-2,232746
+
+243244,Id,e
+245,Food Quantity,0
+246,View Range,78,04607
+247,Speed,4,012207
+248,Act Range,5
+249,Mutation Rate,-2,773454
+
+250251,Id,f
+252,Food Quantity,0
+253,View Range,75,21062
+254,Speed,5,821407
+255,Act Range,5
+256,Mutation Rate,-2,625039
+
+257258,Id,j
+259,Food Quantity,0
+260,View Range,70,70115
+261,Speed,4,393878
+262,Act Range,5
+263,Mutation Rate,4,509479
+
+264265,Id,k
+266,Food Quantity,0
+267,View Range,85,0531
+268,Speed,3,523571
+269,Act Range,5
+270,Mutation Rate,0,2640775
+
+271272,Id,m
+273,Food Quantity,0
+274,View Range,88,4946
+275,Speed,6,43012
+276,Act Range,5
+277,Mutation Rate,2,127145
+
+278279,Id,t
+280,Food Quantity,2
+281,View Range,84,48058
+282,Speed,5,116094
+283,Act Range,4,700749
+284,Mutation Rate,4,38881
+
+285286,Id,w
+287,Food Quantity,1
+288,View Range,86,22919
+289,Speed,5,096833
+290,Act Range,5,377646
+291,Mutation Rate,3,932398
+
+292293,Id,x
+294,Food Quantity,1
+295,View Range,77,15611
+296,Speed,4,641861
+297,Act Range,5
+298,Mutation Rate,-0,2862277
+
+299300,Id,y
+301,Food Quantity,1
+302,View Range,77,15611
+303,Speed,4,641861
+304,Act Range,5
+305,Mutation Rate,-0,2862277
+
+306307,Id,|
+308,Food Quantity,2
+309,View Range,70,57968
+310,Speed,6,67113
+311,Act Range,4,802546
+312,Mutation Rate,2,250141
+
+313314,Id,}
+315,Food Quantity,1
+316,View Range,89,44902
+317,Speed,6,421221
+318,Act Range,5
+319,Mutation Rate,-0,761112
+
+320321,Id,~
+322,Food Quantity,1
+323,View Range,82,78029
+324,Speed,6,239994
+325,Act Range,5
+326,Mutation Rate,-3,076876
+
+327328,Id,
+329,Food Quantity,4
+330,View Range,82,78029
+331,Speed,6,239994
+332,Act Range,5
+333,Mutation Rate,-3,076876
+
+334335,Id,
+336,Food Quantity,1
+337,View Range,86,56601
+338,Speed,5,034059
+339,Act Range,5
+340,Mutation Rate,-4,509165
+
+341342,Id,
+343,Food Quantity,1
+344,View Range,71,01836
+345,Speed,6,543836
+346,Act Range,5,291816
+347,Mutation Rate,5,351661
+
+348349,Id,
+350,Food Quantity,1
+351,View Range,75,21062
+352,Speed,5,821407
+353,Act Range,5
+354,Mutation Rate,-2,625039
+
+355356,Id,
+357,Food Quantity,1
+358,View Range,70,33787
+359,Speed,4,231518
+360,Act Range,4,937742
+361,Mutation Rate,4,293087
+
+362363,Id,2
+364,Survived Animals,11
+365,Total Animals,42
+366,Available Food,28
+
+367368,Id,E
+369,Food Quantity,0
+370,View Range,82,70525
+371,Speed,3,125404
+372,Act Range,5
+373,Mutation Rate,-3,331254
+
+374375,Id,I
+376,Food Quantity,0
+377,View Range,84,29933
+378,Speed,4,711675
+379,Act Range,5
+380,Mutation Rate,3,895024
+
+381382,Id,O
+383,Food Quantity,0
+384,View Range,73,38651
+385,Speed,5,409544
+386,Act Range,5
+387,Mutation Rate,-2,274142
+
+388389,Id,Q
+390,Food Quantity,0
+391,View Range,86,65938
+392,Speed,4,680126
+393,Act Range,5
+394,Mutation Rate,3,813772
+
+395396,Id,R
+397,Food Quantity,0
+398,View Range,77,15611
+399,Speed,4,641861
+400,Act Range,5
+401,Mutation Rate,-0,2862277
+
+402403,Id,T
+404,Food Quantity,0
+405,View Range,86,87805
+406,Speed,3,98246
+407,Act Range,5
+408,Mutation Rate,-1,562943
+
+409410,Id,U
+411,Food Quantity,0
+412,View Range,77,58801
+413,Speed,4,818453
+414,Act Range,5
+415,Mutation Rate,4,600865
+
+416417,Id,W
+418,Food Quantity,0
+419,View Range,70,20193
+420,Speed,6,247157
+421,Act Range,5
+422,Mutation Rate,2,466098
+
+423424,Id,Y
+425,Food Quantity,0
+426,View Range,89,44902
+427,Speed,6,421221
+428,Act Range,5
+429,Mutation Rate,-0,761112
+
+430431,Id,Z
+432,Food Quantity,0
+433,View Range,82,78029
+434,Speed,6,239994
+435,Act Range,5
+436,Mutation Rate,-3,076876
+
+437438,Id,]
+439,Food Quantity,0
+440,View Range,86,56601
+441,Speed,5,034059
+442,Act Range,5
+443,Mutation Rate,-4,509165
+
+444445,Id,^
+446,Food Quantity,0
+447,View Range,81,65321
+448,Speed,3,062875
+449,Act Range,5
+450,Mutation Rate,3,445953
+
+451452,Id,`
+453,Food Quantity,0
+454,View Range,70,61039
+455,Speed,6,232378
+456,Act Range,5
+457,Mutation Rate,5,059803
+
+458459,Id,c
+460,Food Quantity,0
+461,View Range,81,26777
+462,Speed,3,356554
+463,Act Range,5
+464,Mutation Rate,-2,232746
+
+465466,Id,e
+467,Food Quantity,0
+468,View Range,78,04607
+469,Speed,4,012207
+470,Act Range,5
+471,Mutation Rate,-2,773454
+
+472473,Id,f
+474,Food Quantity,0
+475,View Range,75,21062
+476,Speed,5,821407
+477,Act Range,5
+478,Mutation Rate,-2,625039
+
+479480,Id,j
+481,Food Quantity,0
+482,View Range,70,70115
+483,Speed,4,393878
+484,Act Range,5
+485,Mutation Rate,4,509479
+
+486487,Id,k
+488,Food Quantity,0
+489,View Range,85,0531
+490,Speed,3,523571
+491,Act Range,5
+492,Mutation Rate,0,2640775
+
+493494,Id,m
+495,Food Quantity,0
+496,View Range,88,4946
+497,Speed,6,43012
+498,Act Range,5
+499,Mutation Rate,2,127145
+
+500501,Id,t
+502,Food Quantity,0
+503,View Range,84,48058
+504,Speed,5,116094
+505,Act Range,4,700749
+506,Mutation Rate,4,38881
+
+507508,Id,w
+509,Food Quantity,0
+510,View Range,86,22919
+511,Speed,5,096833
+512,Act Range,5,377646
+513,Mutation Rate,3,932398
+
+514515,Id,x
+516,Food Quantity,0
+517,View Range,77,15611
+518,Speed,4,641861
+519,Act Range,5
+520,Mutation Rate,-0,2862277
+
+521522,Id,y
+523,Food Quantity,0
+524,View Range,77,15611
+525,Speed,4,641861
+526,Act Range,5
+527,Mutation Rate,-0,2862277
+
+528529,Id,|
+530,Food Quantity,0
+531,View Range,70,57968
+532,Speed,6,67113
+533,Act Range,4,802546
+534,Mutation Rate,2,250141
+
+535536,Id,}
+537,Food Quantity,0
+538,View Range,89,44902
+539,Speed,6,421221
+540,Act Range,5
+541,Mutation Rate,-0,761112
+
+542543,Id,~
+544,Food Quantity,0
+545,View Range,82,78029
+546,Speed,6,239994
+547,Act Range,5
+548,Mutation Rate,-3,076876
+
+549550,Id,
+551,Food Quantity,0
+552,View Range,82,78029
+553,Speed,6,239994
+554,Act Range,5
+555,Mutation Rate,-3,076876
+
+556557,Id,
+558,Food Quantity,0
+559,View Range,86,56601
+560,Speed,5,034059
+561,Act Range,5
+562,Mutation Rate,-4,509165
+
+563564,Id,
+565,Food Quantity,0
+566,View Range,71,01836
+567,Speed,6,543836
+568,Act Range,5,291816
+569,Mutation Rate,5,351661
+
+570571,Id,
+572,Food Quantity,0
+573,View Range,75,21062
+574,Speed,5,821407
+575,Act Range,5
+576,Mutation Rate,-2,625039
+
+577578,Id,
+579,Food Quantity,0
+580,View Range,70,33787
+581,Speed,4,231518
+582,Act Range,4,937742
+583,Mutation Rate,4,293087
+
+584585,Id,
+586,Food Quantity,1
+587,View Range,84,2851
+588,Speed,4,948458
+589,Act Range,4,352922
+590,Mutation Rate,4,654167
+
+591592,Id,
+593,Food Quantity,1
+594,View Range,77,15611
+595,Speed,4,641861
+596,Act Range,5
+597,Mutation Rate,-0,2862277
+
+598599,Id,
+600,Food Quantity,1
+601,View Range,70,09583
+602,Speed,7,112736
+603,Act Range,4,995033
+604,Mutation Rate,2,718156
+
+605606,Id,
+607,Food Quantity,1
+608,View Range,89,44902
+609,Speed,6,421221
+610,Act Range,5
+611,Mutation Rate,-0,761112
+
+612613,Id,
+614,Food Quantity,1
+615,View Range,82,78029
+616,Speed,6,239994
+617,Act Range,5
+618,Mutation Rate,-3,076876
+
+619620,Id,
+621,Food Quantity,2
+622,View Range,82,78029
+623,Speed,6,239994
+624,Act Range,5
+625,Mutation Rate,-3,076876
+
+626627,Id,
+628,Food Quantity,1
+629,View Range,82,78029
+630,Speed,6,239994
+631,Act Range,5
+632,Mutation Rate,-3,076876
+
+633634,Id,
+635,Food Quantity,1
+636,View Range,82,78029
+637,Speed,6,239994
+638,Act Range,5
+639,Mutation Rate,-3,076876
+
+640641,Id,
+642,Food Quantity,1
+643,View Range,82,78029
+644,Speed,6,239994
+645,Act Range,5
+646,Mutation Rate,-3,076876
+
+647648,Id,
+649,Food Quantity,2
+650,View Range,71,34344
+651,Speed,6,988412
+652,Act Range,5,734967
+653,Mutation Rate,5,657442
+
+654655,Id,
+656,Food Quantity,1
+657,View Range,75,21062
+658,Speed,5,821407
+659,Act Range,5
+660,Mutation Rate,-2,625039
+
+661662,Id,3
+663,Survived Animals,12
+664,Total Animals,54
+665,Available Food,40
+
+666667,Id,E
+668,Food Quantity,0
+669,View Range,82,70525
+670,Speed,3,125404
+671,Act Range,5
+672,Mutation Rate,-3,331254
+
+673674,Id,I
+675,Food Quantity,0
+676,View Range,84,29933
+677,Speed,4,711675
+678,Act Range,5
+679,Mutation Rate,3,895024
+
+680681,Id,O
+682,Food Quantity,0
+683,View Range,73,38651
+684,Speed,5,409544
+685,Act Range,5
+686,Mutation Rate,-2,274142
+
+687688,Id,Q
+689,Food Quantity,0
+690,View Range,86,65938
+691,Speed,4,680126
+692,Act Range,5
+693,Mutation Rate,3,813772
+
+694695,Id,R
+696,Food Quantity,0
+697,View Range,77,15611
+698,Speed,4,641861
+699,Act Range,5
+700,Mutation Rate,-0,2862277
+
+701702,Id,T
+703,Food Quantity,0
+704,View Range,86,87805
+705,Speed,3,98246
+706,Act Range,5
+707,Mutation Rate,-1,562943
+
+708709,Id,U
+710,Food Quantity,0
+711,View Range,77,58801
+712,Speed,4,818453
+713,Act Range,5
+714,Mutation Rate,4,600865
+
+715716,Id,W
+717,Food Quantity,0
+718,View Range,70,20193
+719,Speed,6,247157
+720,Act Range,5
+721,Mutation Rate,2,466098
+
+722723,Id,Y
+724,Food Quantity,0
+725,View Range,89,44902
+726,Speed,6,421221
+727,Act Range,5
+728,Mutation Rate,-0,761112
+
+729730,Id,Z
+731,Food Quantity,0
+732,View Range,82,78029
+733,Speed,6,239994
+734,Act Range,5
+735,Mutation Rate,-3,076876
+
+736737,Id,]
+738,Food Quantity,0
+739,View Range,86,56601
+740,Speed,5,034059
+741,Act Range,5
+742,Mutation Rate,-4,509165
+
+743744,Id,^
+745,Food Quantity,0
+746,View Range,81,65321
+747,Speed,3,062875
+748,Act Range,5
+749,Mutation Rate,3,445953
+
+750751,Id,`
+752,Food Quantity,0
+753,View Range,70,61039
+754,Speed,6,232378
+755,Act Range,5
+756,Mutation Rate,5,059803
+
+757758,Id,c
+759,Food Quantity,0
+760,View Range,81,26777
+761,Speed,3,356554
+762,Act Range,5
+763,Mutation Rate,-2,232746
+
+764765,Id,e
+766,Food Quantity,0
+767,View Range,78,04607
+768,Speed,4,012207
+769,Act Range,5
+770,Mutation Rate,-2,773454
+
+771772,Id,f
+773,Food Quantity,0
+774,View Range,75,21062
+775,Speed,5,821407
+776,Act Range,5
+777,Mutation Rate,-2,625039
+
+778779,Id,j
+780,Food Quantity,0
+781,View Range,70,70115
+782,Speed,4,393878
+783,Act Range,5
+784,Mutation Rate,4,509479
+
+785786,Id,k
+787,Food Quantity,0
+788,View Range,85,0531
+789,Speed,3,523571
+790,Act Range,5
+791,Mutation Rate,0,2640775
+
+792793,Id,m
+794,Food Quantity,0
+795,View Range,88,4946
+796,Speed,6,43012
+797,Act Range,5
+798,Mutation Rate,2,127145
+
+799800,Id,t
+801,Food Quantity,0
+802,View Range,84,48058
+803,Speed,5,116094
+804,Act Range,4,700749
+805,Mutation Rate,4,38881
+
+806807,Id,w
+808,Food Quantity,0
+809,View Range,86,22919
+810,Speed,5,096833
+811,Act Range,5,377646
+812,Mutation Rate,3,932398
+
+813814,Id,x
+815,Food Quantity,0
+816,View Range,77,15611
+817,Speed,4,641861
+818,Act Range,5
+819,Mutation Rate,-0,2862277
+
+820821,Id,y
+822,Food Quantity,0
+823,View Range,77,15611
+824,Speed,4,641861
+825,Act Range,5
+826,Mutation Rate,-0,2862277
+
+827828,Id,|
+829,Food Quantity,0
+830,View Range,70,57968
+831,Speed,6,67113
+832,Act Range,4,802546
+833,Mutation Rate,2,250141
+
+834835,Id,}
+836,Food Quantity,0
+837,View Range,89,44902
+838,Speed,6,421221
+839,Act Range,5
+840,Mutation Rate,-0,761112
+
+841842,Id,~
+843,Food Quantity,0
+844,View Range,82,78029
+845,Speed,6,239994
+846,Act Range,5
+847,Mutation Rate,-3,076876
+
+848849,Id,
+850,Food Quantity,0
+851,View Range,82,78029
+852,Speed,6,239994
+853,Act Range,5
+854,Mutation Rate,-3,076876
+
+855856,Id,
+857,Food Quantity,0
+858,View Range,86,56601
+859,Speed,5,034059
+860,Act Range,5
+861,Mutation Rate,-4,509165
+
+862863,Id,
+864,Food Quantity,0
+865,View Range,71,01836
+866,Speed,6,543836
+867,Act Range,5,291816
+868,Mutation Rate,5,351661
+
+869870,Id,
+871,Food Quantity,0
+872,View Range,75,21062
+873,Speed,5,821407
+874,Act Range,5
+875,Mutation Rate,-2,625039
+
+876877,Id,
+878,Food Quantity,0
+879,View Range,70,33787
+880,Speed,4,231518
+881,Act Range,4,937742
+882,Mutation Rate,4,293087
+
+883884,Id,
+885,Food Quantity,0
+886,View Range,84,2851
+887,Speed,4,948458
+888,Act Range,4,352922
+889,Mutation Rate,4,654167
+
+890891,Id,
+892,Food Quantity,0
+893,View Range,77,15611
+894,Speed,4,641861
+895,Act Range,5
+896,Mutation Rate,-0,2862277
+
+897898,Id,
+899,Food Quantity,0
+900,View Range,70,09583
+901,Speed,7,112736
+902,Act Range,4,995033
+903,Mutation Rate,2,718156
+
+904905,Id,
+906,Food Quantity,0
+907,View Range,89,44902
+908,Speed,6,421221
+909,Act Range,5
+910,Mutation Rate,-0,761112
+
+911912,Id,
+913,Food Quantity,0
+914,View Range,82,78029
+915,Speed,6,239994
+916,Act Range,5
+917,Mutation Rate,-3,076876
+
+918919,Id,
+920,Food Quantity,0
+921,View Range,82,78029
+922,Speed,6,239994
+923,Act Range,5
+924,Mutation Rate,-3,076876
+
+925926,Id,
+927,Food Quantity,0
+928,View Range,82,78029
+929,Speed,6,239994
+930,Act Range,5
+931,Mutation Rate,-3,076876
+
+932933,Id,
+934,Food Quantity,0
+935,View Range,82,78029
+936,Speed,6,239994
+937,Act Range,5
+938,Mutation Rate,-3,076876
+
+939940,Id,
+941,Food Quantity,0
+942,View Range,82,78029
+943,Speed,6,239994
+944,Act Range,5
+945,Mutation Rate,-3,076876
+
+946947,Id,
+948,Food Quantity,0
+949,View Range,71,34344
+950,Speed,6,988412
+951,Act Range,5,734967
+952,Mutation Rate,5,657442
+
+953954,Id,
+955,Food Quantity,0
+956,View Range,75,21062
+957,Speed,5,821407
+958,Act Range,5
+959,Mutation Rate,-2,625039
+
+960961,Id,
+962,Food Quantity,2
+963,View Range,83,99948
+964,Speed,5,151257
+965,Act Range,4,730739
+966,Mutation Rate,4,211608
+
+967968,Id,
+969,Food Quantity,1
+970,View Range,77,15611
+971,Speed,4,641861
+972,Act Range,5
+973,Mutation Rate,-0,2862277
+
+974975,Id,
+976,Food Quantity,3
+977,View Range,69,67811
+978,Speed,6,761678
+979,Act Range,4,502639
+980,Mutation Rate,2,396681
+
+981982,Id,
+983,Food Quantity,1
+984,View Range,89,44902
+985,Speed,6,421221
+986,Act Range,5
+987,Mutation Rate,-0,761112
+
+988989,Id, 
+990,Food Quantity,2
+991,View Range,82,78029
+992,Speed,6,239994
+993,Act Range,5
+994,Mutation Rate,-3,076876
+
+995996,Id,¡
+997,Food Quantity,3
+998,View Range,82,78029
+999,Speed,6,239994
+1000,Act Range,5
+1001,Mutation Rate,-3,076876
+
+10021003,Id,¢
+1004,Food Quantity,1
+1005,View Range,82,78029
+1006,Speed,6,239994
+1007,Act Range,5
+1008,Mutation Rate,-3,076876
+
+10091010,Id,£
+1011,Food Quantity,2
+1012,View Range,82,78029
+1013,Speed,6,239994
+1014,Act Range,5
+1015,Mutation Rate,-3,076876
+
+10161017,Id,¤
+1018,Food Quantity,2
+1019,View Range,82,78029
+1020,Speed,6,239994
+1021,Act Range,5
+1022,Mutation Rate,-3,076876
+
+10231024,Id,¥
+1025,Food Quantity,3
+1026,View Range,82,78029
+1027,Speed,6,239994
+1028,Act Range,5
+1029,Mutation Rate,-3,076876
+
+10301031,Id,¦
+1032,Food Quantity,2
+1033,View Range,71,05454
+1034,Speed,7,079146
+1035,Act Range,5,438934
+1036,Mutation Rate,5,50608
+
+10371038,Id,§
+1039,Food Quantity,1
+1040,View Range,71,15965
+1041,Speed,6,778299
+1042,Act Range,5,421406
+1043,Mutation Rate,5,170911
+
+10441045,Id,4
+1046,Survived Animals,17
+1047,Total Animals,71
+1048,Available Food,41
+
+10491050,Id,E
+1051,Food Quantity,0
+1052,View Range,82,70525
+1053,Speed,3,125404
+1054,Act Range,5
+1055,Mutation Rate,-3,331254
+
+10561057,Id,I
+1058,Food Quantity,0
+1059,View Range,84,29933
+1060,Speed,4,711675
+1061,Act Range,5
+1062,Mutation Rate,3,895024
+
+10631064,Id,O
+1065,Food Quantity,0
+1066,View Range,73,38651
+1067,Speed,5,409544
+1068,Act Range,5
+1069,Mutation Rate,-2,274142
+
+10701071,Id,Q
+1072,Food Quantity,0
+1073,View Range,86,65938
+1074,Speed,4,680126
+1075,Act Range,5
+1076,Mutation Rate,3,813772
+
+10771078,Id,R
+1079,Food Quantity,0
+1080,View Range,77,15611
+1081,Speed,4,641861
+1082,Act Range,5
+1083,Mutation Rate,-0,2862277
+
+10841085,Id,T
+1086,Food Quantity,0
+1087,View Range,86,87805
+1088,Speed,3,98246
+1089,Act Range,5
+1090,Mutation Rate,-1,562943
+
+10911092,Id,U
+1093,Food Quantity,0
+1094,View Range,77,58801
+1095,Speed,4,818453
+1096,Act Range,5
+1097,Mutation Rate,4,600865
+
+10981099,Id,W
+1100,Food Quantity,0
+1101,View Range,70,20193
+1102,Speed,6,247157
+1103,Act Range,5
+1104,Mutation Rate,2,466098
+
+11051106,Id,Y
+1107,Food Quantity,0
+1108,View Range,89,44902
+1109,Speed,6,421221
+1110,Act Range,5
+1111,Mutation Rate,-0,761112
+
+11121113,Id,Z
+1114,Food Quantity,0
+1115,View Range,82,78029
+1116,Speed,6,239994
+1117,Act Range,5
+1118,Mutation Rate,-3,076876
+
+11191120,Id,]
+1121,Food Quantity,0
+1122,View Range,86,56601
+1123,Speed,5,034059
+1124,Act Range,5
+1125,Mutation Rate,-4,509165
+
+11261127,Id,^
+1128,Food Quantity,0
+1129,View Range,81,65321
+1130,Speed,3,062875
+1131,Act Range,5
+1132,Mutation Rate,3,445953
+
+11331134,Id,`
+1135,Food Quantity,0
+1136,View Range,70,61039
+1137,Speed,6,232378
+1138,Act Range,5
+1139,Mutation Rate,5,059803
+
+11401141,Id,c
+1142,Food Quantity,0
+1143,View Range,81,26777
+1144,Speed,3,356554
+1145,Act Range,5
+1146,Mutation Rate,-2,232746
+
+11471148,Id,e
+1149,Food Quantity,0
+1150,View Range,78,04607
+1151,Speed,4,012207
+1152,Act Range,5
+1153,Mutation Rate,-2,773454
+
+11541155,Id,f
+1156,Food Quantity,0
+1157,View Range,75,21062
+1158,Speed,5,821407
+1159,Act Range,5
+1160,Mutation Rate,-2,625039
+
+11611162,Id,j
+1163,Food Quantity,0
+1164,View Range,70,70115
+1165,Speed,4,393878
+1166,Act Range,5
+1167,Mutation Rate,4,509479
+
+11681169,Id,k
+1170,Food Quantity,0
+1171,View Range,85,0531
+1172,Speed,3,523571
+1173,Act Range,5
+1174,Mutation Rate,0,2640775
+
+11751176,Id,m
+1177,Food Quantity,0
+1178,View Range,88,4946
+1179,Speed,6,43012
+1180,Act Range,5
+1181,Mutation Rate,2,127145
+
+11821183,Id,t
+1184,Food Quantity,0
+1185,View Range,84,48058
+1186,Speed,5,116094
+1187,Act Range,4,700749
+1188,Mutation Rate,4,38881
+
+11891190,Id,w
+1191,Food Quantity,0
+1192,View Range,86,22919
+1193,Speed,5,096833
+1194,Act Range,5,377646
+1195,Mutation Rate,3,932398
+
+11961197,Id,x
+1198,Food Quantity,0
+1199,View Range,77,15611
+1200,Speed,4,641861
+1201,Act Range,5
+1202,Mutation Rate,-0,2862277
+
+12031204,Id,y
+1205,Food Quantity,0
+1206,View Range,77,15611
+1207,Speed,4,641861
+1208,Act Range,5
+1209,Mutation Rate,-0,2862277
+
+12101211,Id,|
+1212,Food Quantity,0
+1213,View Range,70,57968
+1214,Speed,6,67113
+1215,Act Range,4,802546
+1216,Mutation Rate,2,250141
+
+12171218,Id,}
+1219,Food Quantity,0
+1220,View Range,89,44902
+1221,Speed,6,421221
+1222,Act Range,5
+1223,Mutation Rate,-0,761112
+
+12241225,Id,~
+1226,Food Quantity,0
+1227,View Range,82,78029
+1228,Speed,6,239994
+1229,Act Range,5
+1230,Mutation Rate,-3,076876
+
+12311232,Id,
+1233,Food Quantity,0
+1234,View Range,82,78029
+1235,Speed,6,239994
+1236,Act Range,5
+1237,Mutation Rate,-3,076876
+
+12381239,Id,
+1240,Food Quantity,0
+1241,View Range,86,56601
+1242,Speed,5,034059
+1243,Act Range,5
+1244,Mutation Rate,-4,509165
+
+12451246,Id,
+1247,Food Quantity,0
+1248,View Range,71,01836
+1249,Speed,6,543836
+1250,Act Range,5,291816
+1251,Mutation Rate,5,351661
+
+12521253,Id,
+1254,Food Quantity,0
+1255,View Range,75,21062
+1256,Speed,5,821407
+1257,Act Range,5
+1258,Mutation Rate,-2,625039
+
+12591260,Id,
+1261,Food Quantity,0
+1262,View Range,70,33787
+1263,Speed,4,231518
+1264,Act Range,4,937742
+1265,Mutation Rate,4,293087
+
+12661267,Id,
+1268,Food Quantity,0
+1269,View Range,84,2851
+1270,Speed,4,948458
+1271,Act Range,4,352922
+1272,Mutation Rate,4,654167
+
+12731274,Id,
+1275,Food Quantity,0
+1276,View Range,77,15611
+1277,Speed,4,641861
+1278,Act Range,5
+1279,Mutation Rate,-0,2862277
+
+12801281,Id,
+1282,Food Quantity,0
+1283,View Range,70,09583
+1284,Speed,7,112736
+1285,Act Range,4,995033
+1286,Mutation Rate,2,718156
+
+12871288,Id,
+1289,Food Quantity,0
+1290,View Range,89,44902
+1291,Speed,6,421221
+1292,Act Range,5
+1293,Mutation Rate,-0,761112
+
+12941295,Id,
+1296,Food Quantity,0
+1297,View Range,82,78029
+1298,Speed,6,239994
+1299,Act Range,5
+1300,Mutation Rate,-3,076876
+
+13011302,Id,
+1303,Food Quantity,0
+1304,View Range,82,78029
+1305,Speed,6,239994
+1306,Act Range,5
+1307,Mutation Rate,-3,076876
+
+13081309,Id,
+1310,Food Quantity,0
+1311,View Range,82,78029
+1312,Speed,6,239994
+1313,Act Range,5
+1314,Mutation Rate,-3,076876
+
+13151316,Id,
+1317,Food Quantity,0
+1318,View Range,82,78029
+1319,Speed,6,239994
+1320,Act Range,5
+1321,Mutation Rate,-3,076876
+
+13221323,Id,
+1324,Food Quantity,0
+1325,View Range,82,78029
+1326,Speed,6,239994
+1327,Act Range,5
+1328,Mutation Rate,-3,076876
+
+13291330,Id,
+1331,Food Quantity,0
+1332,View Range,71,34344
+1333,Speed,6,988412
+1334,Act Range,5,734967
+1335,Mutation Rate,5,657442
+
+13361337,Id,
+1338,Food Quantity,0
+1339,View Range,75,21062
+1340,Speed,5,821407
+1341,Act Range,5
+1342,Mutation Rate,-2,625039
+
+13431344,Id,
+1345,Food Quantity,0
+1346,View Range,83,99948
+1347,Speed,5,151257
+1348,Act Range,4,730739
+1349,Mutation Rate,4,211608
+
+13501351,Id,
+1352,Food Quantity,0
+1353,View Range,77,15611
+1354,Speed,4,641861
+1355,Act Range,5
+1356,Mutation Rate,-0,2862277
+
+13571358,Id,
+1359,Food Quantity,0
+1360,View Range,69,67811
+1361,Speed,6,761678
+1362,Act Range,4,502639
+1363,Mutation Rate,2,396681
+
+13641365,Id,
+1366,Food Quantity,0
+1367,View Range,89,44902
+1368,Speed,6,421221
+1369,Act Range,5
+1370,Mutation Rate,-0,761112
+
+13711372,Id, 
+1373,Food Quantity,0
+1374,View Range,82,78029
+1375,Speed,6,239994
+1376,Act Range,5
+1377,Mutation Rate,-3,076876
+
+13781379,Id,¡
+1380,Food Quantity,0
+1381,View Range,82,78029
+1382,Speed,6,239994
+1383,Act Range,5
+1384,Mutation Rate,-3,076876
+
+13851386,Id,¢
+1387,Food Quantity,0
+1388,View Range,82,78029
+1389,Speed,6,239994
+1390,Act Range,5
+1391,Mutation Rate,-3,076876
+
+13921393,Id,£
+1394,Food Quantity,0
+1395,View Range,82,78029
+1396,Speed,6,239994
+1397,Act Range,5
+1398,Mutation Rate,-3,076876
+
+13991400,Id,¤
+1401,Food Quantity,0
+1402,View Range,82,78029
+1403,Speed,6,239994
+1404,Act Range,5
+1405,Mutation Rate,-3,076876
+
+14061407,Id,¥
+1408,Food Quantity,0
+1409,View Range,82,78029
+1410,Speed,6,239994
+1411,Act Range,5
+1412,Mutation Rate,-3,076876
+
+14131414,Id,¦
+1415,Food Quantity,0
+1416,View Range,71,05454
+1417,Speed,7,079146
+1418,Act Range,5,438934
+1419,Mutation Rate,5,50608
+
+14201421,Id,§
+1422,Food Quantity,0
+1423,View Range,71,15965
+1424,Speed,6,778299
+1425,Act Range,5,421406
+1426,Mutation Rate,5,170911
+
+14271428,Id,©
+1429,Food Quantity,1
+1430,View Range,84,15697
+1431,Speed,5,544333
+1432,Act Range,4,537289
+1433,Mutation Rate,3,763733
+
+14341435,Id,«
+1436,Food Quantity,1
+1437,View Range,77,15611
+1438,Speed,4,641861
+1439,Act Range,5
+1440,Mutation Rate,-0,2862277
+
+14411442,Id,­
+1443,Food Quantity,4
+1444,View Range,69,533
+1445,Speed,6,661328
+1446,Act Range,4,875972
+1447,Mutation Rate,2,123354
+
+14481449,Id,¯
+1450,Food Quantity,3
+1451,View Range,89,44902
+1452,Speed,6,421221
+1453,Act Range,5
+1454,Mutation Rate,-0,761112
+
+14551456,Id,°
+1457,Food Quantity,2
+1458,View Range,82,78029
+1459,Speed,6,239994
+1460,Act Range,5
+1461,Mutation Rate,-3,076876
+
+14621463,Id,±
+1464,Food Quantity,1
+1465,View Range,82,78029
+1466,Speed,6,239994
+1467,Act Range,5
+1468,Mutation Rate,-3,076876
+
+14691470,Id,³
+1471,Food Quantity,1
+1472,View Range,82,78029
+1473,Speed,6,239994
+1474,Act Range,5
+1475,Mutation Rate,-3,076876
+
+14761477,Id,´
+1478,Food Quantity,3
+1479,View Range,82,78029
+1480,Speed,6,239994
+1481,Act Range,5
+1482,Mutation Rate,-3,076876
+
+14831484,Id,µ
+1485,Food Quantity,1
+1486,View Range,82,78029
+1487,Speed,6,239994
+1488,Act Range,5
+1489,Mutation Rate,-3,076876
+
+14901491,Id,¶
+1492,Food Quantity,1
+1493,View Range,82,78029
+1494,Speed,6,239994
+1495,Act Range,5
+1496,Mutation Rate,-3,076876
+
+14971498,Id,·
+1499,Food Quantity,1
+1500,View Range,82,78029
+1501,Speed,6,239994
+1502,Act Range,5
+1503,Mutation Rate,-3,076876
+
+15041505,Id,¸
+1506,Food Quantity,3
+1507,View Range,82,78029
+1508,Speed,6,239994
+1509,Act Range,5
+1510,Mutation Rate,-3,076876
+
+15111512,Id,¹
+1513,Food Quantity,2
+1514,View Range,82,78029
+1515,Speed,6,239994
+1516,Act Range,5
+1517,Mutation Rate,-3,076876
+
+15181519,Id,º
+1520,Food Quantity,1
+1521,View Range,82,78029
+1522,Speed,6,239994
+1523,Act Range,5
+1524,Mutation Rate,-3,076876
+
+15251526,Id,»
+1527,Food Quantity,1
+1528,View Range,82,78029
+1529,Speed,6,239994
+1530,Act Range,5
+1531,Mutation Rate,-3,076876
+
+15321533,Id,¼
+1534,Food Quantity,3
+1535,View Range,82,78029
+1536,Speed,6,239994
+1537,Act Range,5
+1538,Mutation Rate,-3,076876
+
+15391540,Id,¿
+1541,Food Quantity,3
+1542,View Range,71,04092
+1543,Speed,7,201233
+1544,Act Range,4,981763
+1545,Mutation Rate,4,951016
+
+15461547,Id,5
+1548,Survived Animals,17
+1549,Total Animals,88
+1550,Available Food,31
+
+15511552,Id,E
+1553,Food Quantity,0
+1554,View Range,82,70525
+1555,Speed,3,125404
+1556,Act Range,5
+1557,Mutation Rate,-3,331254
+
+15581559,Id,I
+1560,Food Quantity,0
+1561,View Range,84,29933
+1562,Speed,4,711675
+1563,Act Range,5
+1564,Mutation Rate,3,895024
+
+15651566,Id,O
+1567,Food Quantity,0
+1568,View Range,73,38651
+1569,Speed,5,409544
+1570,Act Range,5
+1571,Mutation Rate,-2,274142
+
+15721573,Id,Q
+1574,Food Quantity,0
+1575,View Range,86,65938
+1576,Speed,4,680126
+1577,Act Range,5
+1578,Mutation Rate,3,813772
+
+15791580,Id,R
+1581,Food Quantity,0
+1582,View Range,77,15611
+1583,Speed,4,641861
+1584,Act Range,5
+1585,Mutation Rate,-0,2862277
+
+15861587,Id,T
+1588,Food Quantity,0
+1589,View Range,86,87805
+1590,Speed,3,98246
+1591,Act Range,5
+1592,Mutation Rate,-1,562943
+
+15931594,Id,U
+1595,Food Quantity,0
+1596,View Range,77,58801
+1597,Speed,4,818453
+1598,Act Range,5
+1599,Mutation Rate,4,600865
+
+16001601,Id,W
+1602,Food Quantity,0
+1603,View Range,70,20193
+1604,Speed,6,247157
+1605,Act Range,5
+1606,Mutation Rate,2,466098
+
+16071608,Id,Y
+1609,Food Quantity,0
+1610,View Range,89,44902
+1611,Speed,6,421221
+1612,Act Range,5
+1613,Mutation Rate,-0,761112
+
+16141615,Id,Z
+1616,Food Quantity,0
+1617,View Range,82,78029
+1618,Speed,6,239994
+1619,Act Range,5
+1620,Mutation Rate,-3,076876
+
+16211622,Id,]
+1623,Food Quantity,0
+1624,View Range,86,56601
+1625,Speed,5,034059
+1626,Act Range,5
+1627,Mutation Rate,-4,509165
+
+16281629,Id,^
+1630,Food Quantity,0
+1631,View Range,81,65321
+1632,Speed,3,062875
+1633,Act Range,5
+1634,Mutation Rate,3,445953
+
+16351636,Id,`
+1637,Food Quantity,0
+1638,View Range,70,61039
+1639,Speed,6,232378
+1640,Act Range,5
+1641,Mutation Rate,5,059803
+
+16421643,Id,c
+1644,Food Quantity,0
+1645,View Range,81,26777
+1646,Speed,3,356554
+1647,Act Range,5
+1648,Mutation Rate,-2,232746
+
+16491650,Id,e
+1651,Food Quantity,0
+1652,View Range,78,04607
+1653,Speed,4,012207
+1654,Act Range,5
+1655,Mutation Rate,-2,773454
+
+16561657,Id,f
+1658,Food Quantity,0
+1659,View Range,75,21062
+1660,Speed,5,821407
+1661,Act Range,5
+1662,Mutation Rate,-2,625039
+
+16631664,Id,j
+1665,Food Quantity,0
+1666,View Range,70,70115
+1667,Speed,4,393878
+1668,Act Range,5
+1669,Mutation Rate,4,509479
+
+16701671,Id,k
+1672,Food Quantity,0
+1673,View Range,85,0531
+1674,Speed,3,523571
+1675,Act Range,5
+1676,Mutation Rate,0,2640775
+
+16771678,Id,m
+1679,Food Quantity,0
+1680,View Range,88,4946
+1681,Speed,6,43012
+1682,Act Range,5
+1683,Mutation Rate,2,127145
+
+16841685,Id,t
+1686,Food Quantity,0
+1687,View Range,84,48058
+1688,Speed,5,116094
+1689,Act Range,4,700749
+1690,Mutation Rate,4,38881
+
+16911692,Id,w
+1693,Food Quantity,0
+1694,View Range,86,22919
+1695,Speed,5,096833
+1696,Act Range,5,377646
+1697,Mutation Rate,3,932398
+
+16981699,Id,x
+1700,Food Quantity,0
+1701,View Range,77,15611
+1702,Speed,4,641861
+1703,Act Range,5
+1704,Mutation Rate,-0,2862277
+
+17051706,Id,y
+1707,Food Quantity,0
+1708,View Range,77,15611
+1709,Speed,4,641861
+1710,Act Range,5
+1711,Mutation Rate,-0,2862277
+
+17121713,Id,|
+1714,Food Quantity,0
+1715,View Range,70,57968
+1716,Speed,6,67113
+1717,Act Range,4,802546
+1718,Mutation Rate,2,250141
+
+17191720,Id,}
+1721,Food Quantity,0
+1722,View Range,89,44902
+1723,Speed,6,421221
+1724,Act Range,5
+1725,Mutation Rate,-0,761112
+
+17261727,Id,~
+1728,Food Quantity,0
+1729,View Range,82,78029
+1730,Speed,6,239994
+1731,Act Range,5
+1732,Mutation Rate,-3,076876
+
+17331734,Id,
+1735,Food Quantity,0
+1736,View Range,82,78029
+1737,Speed,6,239994
+1738,Act Range,5
+1739,Mutation Rate,-3,076876
+
+17401741,Id,
+1742,Food Quantity,0
+1743,View Range,86,56601
+1744,Speed,5,034059
+1745,Act Range,5
+1746,Mutation Rate,-4,509165
+
+17471748,Id,
+1749,Food Quantity,0
+1750,View Range,71,01836
+1751,Speed,6,543836
+1752,Act Range,5,291816
+1753,Mutation Rate,5,351661
+
+17541755,Id,
+1756,Food Quantity,0
+1757,View Range,75,21062
+1758,Speed,5,821407
+1759,Act Range,5
+1760,Mutation Rate,-2,625039
+
+17611762,Id,
+1763,Food Quantity,0
+1764,View Range,70,33787
+1765,Speed,4,231518
+1766,Act Range,4,937742
+1767,Mutation Rate,4,293087
+
+17681769,Id,
+1770,Food Quantity,0
+1771,View Range,84,2851
+1772,Speed,4,948458
+1773,Act Range,4,352922
+1774,Mutation Rate,4,654167
+
+17751776,Id,
+1777,Food Quantity,0
+1778,View Range,77,15611
+1779,Speed,4,641861
+1780,Act Range,5
+1781,Mutation Rate,-0,2862277
+
+17821783,Id,
+1784,Food Quantity,0
+1785,View Range,70,09583
+1786,Speed,7,112736
+1787,Act Range,4,995033
+1788,Mutation Rate,2,718156
+
+17891790,Id,
+1791,Food Quantity,0
+1792,View Range,89,44902
+1793,Speed,6,421221
+1794,Act Range,5
+1795,Mutation Rate,-0,761112
+
+17961797,Id,
+1798,Food Quantity,0
+1799,View Range,82,78029
+1800,Speed,6,239994
+1801,Act Range,5
+1802,Mutation Rate,-3,076876
+
+18031804,Id,
+1805,Food Quantity,0
+1806,View Range,82,78029
+1807,Speed,6,239994
+1808,Act Range,5
+1809,Mutation Rate,-3,076876
+
+18101811,Id,
+1812,Food Quantity,0
+1813,View Range,82,78029
+1814,Speed,6,239994
+1815,Act Range,5
+1816,Mutation Rate,-3,076876
+
+18171818,Id,
+1819,Food Quantity,0
+1820,View Range,82,78029
+1821,Speed,6,239994
+1822,Act Range,5
+1823,Mutation Rate,-3,076876
+
+18241825,Id,
+1826,Food Quantity,0
+1827,View Range,82,78029
+1828,Speed,6,239994
+1829,Act Range,5
+1830,Mutation Rate,-3,076876
+
+18311832,Id,
+1833,Food Quantity,0
+1834,View Range,71,34344
+1835,Speed,6,988412
+1836,Act Range,5,734967
+1837,Mutation Rate,5,657442
+
+18381839,Id,
+1840,Food Quantity,0
+1841,View Range,75,21062
+1842,Speed,5,821407
+1843,Act Range,5
+1844,Mutation Rate,-2,625039
+
+18451846,Id,
+1847,Food Quantity,0
+1848,View Range,83,99948
+1849,Speed,5,151257
+1850,Act Range,4,730739
+1851,Mutation Rate,4,211608
+
+18521853,Id,
+1854,Food Quantity,0
+1855,View Range,77,15611
+1856,Speed,4,641861
+1857,Act Range,5
+1858,Mutation Rate,-0,2862277
+
+18591860,Id,
+1861,Food Quantity,0
+1862,View Range,69,67811
+1863,Speed,6,761678
+1864,Act Range,4,502639
+1865,Mutation Rate,2,396681
+
+18661867,Id,
+1868,Food Quantity,0
+1869,View Range,89,44902
+1870,Speed,6,421221
+1871,Act Range,5
+1872,Mutation Rate,-0,761112
+
+18731874,Id, 
+1875,Food Quantity,0
+1876,View Range,82,78029
+1877,Speed,6,239994
+1878,Act Range,5
+1879,Mutation Rate,-3,076876
+
+18801881,Id,¡
+1882,Food Quantity,0
+1883,View Range,82,78029
+1884,Speed,6,239994
+1885,Act Range,5
+1886,Mutation Rate,-3,076876
+
+18871888,Id,¢
+1889,Food Quantity,0
+1890,View Range,82,78029
+1891,Speed,6,239994
+1892,Act Range,5
+1893,Mutation Rate,-3,076876
+
+18941895,Id,£
+1896,Food Quantity,0
+1897,View Range,82,78029
+1898,Speed,6,239994
+1899,Act Range,5
+1900,Mutation Rate,-3,076876
+
+19011902,Id,¤
+1903,Food Quantity,0
+1904,View Range,82,78029
+1905,Speed,6,239994
+1906,Act Range,5
+1907,Mutation Rate,-3,076876
+
+19081909,Id,¥
+1910,Food Quantity,0
+1911,View Range,82,78029
+1912,Speed,6,239994
+1913,Act Range,5
+1914,Mutation Rate,-3,076876
+
+19151916,Id,¦
+1917,Food Quantity,0
+1918,View Range,71,05454
+1919,Speed,7,079146
+1920,Act Range,5,438934
+1921,Mutation Rate,5,50608
+
+19221923,Id,§
+1924,Food Quantity,0
+1925,View Range,71,15965
+1926,Speed,6,778299
+1927,Act Range,5,421406
+1928,Mutation Rate,5,170911
+
+19291930,Id,©
+1931,Food Quantity,0
+1932,View Range,84,15697
+1933,Speed,5,544333
+1934,Act Range,4,537289
+1935,Mutation Rate,3,763733
+
+19361937,Id,«
+1938,Food Quantity,0
+1939,View Range,77,15611
+1940,Speed,4,641861
+1941,Act Range,5
+1942,Mutation Rate,-0,2862277
+
+19431944,Id,­
+1945,Food Quantity,0
+1946,View Range,69,533
+1947,Speed,6,661328
+1948,Act Range,4,875972
+1949,Mutation Rate,2,123354
+
+19501951,Id,¯
+1952,Food Quantity,0
+1953,View Range,89,44902
+1954,Speed,6,421221
+1955,Act Range,5
+1956,Mutation Rate,-0,761112
+
+19571958,Id,°
+1959,Food Quantity,0
+1960,View Range,82,78029
+1961,Speed,6,239994
+1962,Act Range,5
+1963,Mutation Rate,-3,076876
+
+19641965,Id,±
+1966,Food Quantity,0
+1967,View Range,82,78029
+1968,Speed,6,239994
+1969,Act Range,5
+1970,Mutation Rate,-3,076876
+
+19711972,Id,³
+1973,Food Quantity,0
+1974,View Range,82,78029
+1975,Speed,6,239994
+1976,Act Range,5
+1977,Mutation Rate,-3,076876
+
+19781979,Id,´
+1980,Food Quantity,0
+1981,View Range,82,78029
+1982,Speed,6,239994
+1983,Act Range,5
+1984,Mutation Rate,-3,076876
+
+19851986,Id,µ
+1987,Food Quantity,0
+1988,View Range,82,78029
+1989,Speed,6,239994
+1990,Act Range,5
+1991,Mutation Rate,-3,076876
+
+19921993,Id,¶
+1994,Food Quantity,0
+1995,View Range,82,78029
+1996,Speed,6,239994
+1997,Act Range,5
+1998,Mutation Rate,-3,076876
+
+19992000,Id,·
+2001,Food Quantity,0
+2002,View Range,82,78029
+2003,Speed,6,239994
+2004,Act Range,5
+2005,Mutation Rate,-3,076876
+
+20062007,Id,¸
+2008,Food Quantity,0
+2009,View Range,82,78029
+2010,Speed,6,239994
+2011,Act Range,5
+2012,Mutation Rate,-3,076876
+
+20132014,Id,¹
+2015,Food Quantity,0
+2016,View Range,82,78029
+2017,Speed,6,239994
+2018,Act Range,5
+2019,Mutation Rate,-3,076876
+
+20202021,Id,º
+2022,Food Quantity,0
+2023,View Range,82,78029
+2024,Speed,6,239994
+2025,Act Range,5
+2026,Mutation Rate,-3,076876
+
+20272028,Id,»
+2029,Food Quantity,0
+2030,View Range,82,78029
+2031,Speed,6,239994
+2032,Act Range,5
+2033,Mutation Rate,-3,076876
+
+20342035,Id,¼
+2036,Food Quantity,0
+2037,View Range,82,78029
+2038,Speed,6,239994
+2039,Act Range,5
+2040,Mutation Rate,-3,076876
+
+20412042,Id,¿
+2043,Food Quantity,0
+2044,View Range,71,04092
+2045,Speed,7,201233
+2046,Act Range,4,981763
+2047,Mutation Rate,4,951016
+
+20482049,Id,À
+2050,Food Quantity,1
+2051,View Range,84,16188
+2052,Speed,5,392515
+2053,Act Range,4,871769
+2054,Mutation Rate,3,442969
+
+20552056,Id,Â
+2057,Food Quantity,1
+2058,View Range,69,39619
+2059,Speed,6,389589
+2060,Act Range,5,288257
+2061,Mutation Rate,1,625354
+
+20622063,Id,Ã
+2064,Food Quantity,1
+2065,View Range,69,04986
+2066,Speed,7,047438
+2067,Act Range,4,69313
+2068,Mutation Rate,1,754684
+
+20692070,Id,Ä
+2071,Food Quantity,4
+2072,View Range,69,30343
+2073,Speed,6,257524
+2074,Act Range,4,5622
+2075,Mutation Rate,1,677595
+
+20762077,Id,Æ
+2078,Food Quantity,4
+2079,View Range,89,44902
+2080,Speed,6,421221
+2081,Act Range,5
+2082,Mutation Rate,-0,761112
+
+20832084,Id,Ç
+2085,Food Quantity,1
+2086,View Range,89,44902
+2087,Speed,6,421221
+2088,Act Range,5
+2089,Mutation Rate,-0,761112
+
+20902091,Id,Ê
+2092,Food Quantity,1
+2093,View Range,82,78029
+2094,Speed,6,239994
+2095,Act Range,5
+2096,Mutation Rate,-3,076876
+
+20972098,Id,Ì
+2099,Food Quantity,4
+2100,View Range,82,78029
+2101,Speed,6,239994
+2102,Act Range,5
+2103,Mutation Rate,-3,076876
+
+21042105,Id,Í
+2106,Food Quantity,1
+2107,View Range,82,78029
+2108,Speed,6,239994
+2109,Act Range,5
+2110,Mutation Rate,-3,076876
+
+21112112,Id,Î
+2113,Food Quantity,1
+2114,View Range,82,78029
+2115,Speed,6,239994
+2116,Act Range,5
+2117,Mutation Rate,-3,076876
+
+21182119,Id,Ð
+2120,Food Quantity,1
+2121,View Range,82,78029
+2122,Speed,6,239994
+2123,Act Range,5
+2124,Mutation Rate,-3,076876
+
+21252126,Id,Ñ
+2127,Food Quantity,1
+2128,View Range,82,78029
+2129,Speed,6,239994
+2130,Act Range,5
+2131,Mutation Rate,-3,076876
+
+21322133,Id,Ø
+2134,Food Quantity,1
+2135,View Range,82,78029
+2136,Speed,6,239994
+2137,Act Range,5
+2138,Mutation Rate,-3,076876
+
+21392140,Id,Ú
+2141,Food Quantity,3
+2142,View Range,82,78029
+2143,Speed,6,239994
+2144,Act Range,5
+2145,Mutation Rate,-3,076876
+
+21462147,Id,Û
+2148,Food Quantity,2
+2149,View Range,82,78029
+2150,Speed,6,239994
+2151,Act Range,5
+2152,Mutation Rate,-3,076876
+
+21532154,Id,Ý
+2155,Food Quantity,2
+2156,View Range,71,3279
+2157,Speed,7,264894
+2158,Act Range,5,22226
+2159,Mutation Rate,4,72189
+
+21602161,Id,Þ
+2162,Food Quantity,2
+2163,View Range,71,32766
+2164,Speed,7,076414
+2165,Act Range,5,053345
+2166,Mutation Rate,5,2242
+
+21672168,Id,6
+2169,Survived Animals,17
+2170,Total Animals,105
+2171,Available Food,25
+
+21722173,Id,E
+2174,Food Quantity,0
+2175,View Range,82,70525
+2176,Speed,3,125404
+2177,Act Range,5
+2178,Mutation Rate,-3,331254
+
+21792180,Id,I
+2181,Food Quantity,0
+2182,View Range,84,29933
+2183,Speed,4,711675
+2184,Act Range,5
+2185,Mutation Rate,3,895024
+
+21862187,Id,O
+2188,Food Quantity,0
+2189,View Range,73,38651
+2190,Speed,5,409544
+2191,Act Range,5
+2192,Mutation Rate,-2,274142
+
+21932194,Id,Q
+2195,Food Quantity,0
+2196,View Range,86,65938
+2197,Speed,4,680126
+2198,Act Range,5
+2199,Mutation Rate,3,813772
+
+22002201,Id,R
+2202,Food Quantity,0
+2203,View Range,77,15611
+2204,Speed,4,641861
+2205,Act Range,5
+2206,Mutation Rate,-0,2862277
+
+22072208,Id,T
+2209,Food Quantity,0
+2210,View Range,86,87805
+2211,Speed,3,98246
+2212,Act Range,5
+2213,Mutation Rate,-1,562943
+
+22142215,Id,U
+2216,Food Quantity,0
+2217,View Range,77,58801
+2218,Speed,4,818453
+2219,Act Range,5
+2220,Mutation Rate,4,600865
+
+22212222,Id,W
+2223,Food Quantity,0
+2224,View Range,70,20193
+2225,Speed,6,247157
+2226,Act Range,5
+2227,Mutation Rate,2,466098
+
+22282229,Id,Y
+2230,Food Quantity,0
+2231,View Range,89,44902
+2232,Speed,6,421221
+2233,Act Range,5
+2234,Mutation Rate,-0,761112
+
+22352236,Id,Z
+2237,Food Quantity,0
+2238,View Range,82,78029
+2239,Speed,6,239994
+2240,Act Range,5
+2241,Mutation Rate,-3,076876
+
+22422243,Id,]
+2244,Food Quantity,0
+2245,View Range,86,56601
+2246,Speed,5,034059
+2247,Act Range,5
+2248,Mutation Rate,-4,509165
+
+22492250,Id,^
+2251,Food Quantity,0
+2252,View Range,81,65321
+2253,Speed,3,062875
+2254,Act Range,5
+2255,Mutation Rate,3,445953
+
+22562257,Id,`
+2258,Food Quantity,0
+2259,View Range,70,61039
+2260,Speed,6,232378
+2261,Act Range,5
+2262,Mutation Rate,5,059803
+
+22632264,Id,c
+2265,Food Quantity,0
+2266,View Range,81,26777
+2267,Speed,3,356554
+2268,Act Range,5
+2269,Mutation Rate,-2,232746
+
+22702271,Id,e
+2272,Food Quantity,0
+2273,View Range,78,04607
+2274,Speed,4,012207
+2275,Act Range,5
+2276,Mutation Rate,-2,773454
+
+22772278,Id,f
+2279,Food Quantity,0
+2280,View Range,75,21062
+2281,Speed,5,821407
+2282,Act Range,5
+2283,Mutation Rate,-2,625039
+
+22842285,Id,j
+2286,Food Quantity,0
+2287,View Range,70,70115
+2288,Speed,4,393878
+2289,Act Range,5
+2290,Mutation Rate,4,509479
+
+22912292,Id,k
+2293,Food Quantity,0
+2294,View Range,85,0531
+2295,Speed,3,523571
+2296,Act Range,5
+2297,Mutation Rate,0,2640775
+
+22982299,Id,m
+2300,Food Quantity,0
+2301,View Range,88,4946
+2302,Speed,6,43012
+2303,Act Range,5
+2304,Mutation Rate,2,127145
+
+23052306,Id,t
+2307,Food Quantity,0
+2308,View Range,84,48058
+2309,Speed,5,116094
+2310,Act Range,4,700749
+2311,Mutation Rate,4,38881
+
+23122313,Id,w
+2314,Food Quantity,0
+2315,View Range,86,22919
+2316,Speed,5,096833
+2317,Act Range,5,377646
+2318,Mutation Rate,3,932398
+
+23192320,Id,x
+2321,Food Quantity,0
+2322,View Range,77,15611
+2323,Speed,4,641861
+2324,Act Range,5
+2325,Mutation Rate,-0,2862277
+
+23262327,Id,y
+2328,Food Quantity,0
+2329,View Range,77,15611
+2330,Speed,4,641861
+2331,Act Range,5
+2332,Mutation Rate,-0,2862277
+
+23332334,Id,|
+2335,Food Quantity,0
+2336,View Range,70,57968
+2337,Speed,6,67113
+2338,Act Range,4,802546
+2339,Mutation Rate,2,250141
+
+23402341,Id,}
+2342,Food Quantity,0
+2343,View Range,89,44902
+2344,Speed,6,421221
+2345,Act Range,5
+2346,Mutation Rate,-0,761112
+
+23472348,Id,~
+2349,Food Quantity,0
+2350,View Range,82,78029
+2351,Speed,6,239994
+2352,Act Range,5
+2353,Mutation Rate,-3,076876
+
+23542355,Id,
+2356,Food Quantity,0
+2357,View Range,82,78029
+2358,Speed,6,239994
+2359,Act Range,5
+2360,Mutation Rate,-3,076876
+
+23612362,Id,
+2363,Food Quantity,0
+2364,View Range,86,56601
+2365,Speed,5,034059
+2366,Act Range,5
+2367,Mutation Rate,-4,509165
+
+23682369,Id,
+2370,Food Quantity,0
+2371,View Range,71,01836
+2372,Speed,6,543836
+2373,Act Range,5,291816
+2374,Mutation Rate,5,351661
+
+23752376,Id,
+2377,Food Quantity,0
+2378,View Range,75,21062
+2379,Speed,5,821407
+2380,Act Range,5
+2381,Mutation Rate,-2,625039
+
+23822383,Id,
+2384,Food Quantity,0
+2385,View Range,70,33787
+2386,Speed,4,231518
+2387,Act Range,4,937742
+2388,Mutation Rate,4,293087
+
+23892390,Id,
+2391,Food Quantity,0
+2392,View Range,84,2851
+2393,Speed,4,948458
+2394,Act Range,4,352922
+2395,Mutation Rate,4,654167
+
+23962397,Id,
+2398,Food Quantity,0
+2399,View Range,77,15611
+2400,Speed,4,641861
+2401,Act Range,5
+2402,Mutation Rate,-0,2862277
+
+24032404,Id,
+2405,Food Quantity,0
+2406,View Range,70,09583
+2407,Speed,7,112736
+2408,Act Range,4,995033
+2409,Mutation Rate,2,718156
+
+24102411,Id,
+2412,Food Quantity,0
+2413,View Range,89,44902
+2414,Speed,6,421221
+2415,Act Range,5
+2416,Mutation Rate,-0,761112
+
+24172418,Id,
+2419,Food Quantity,0
+2420,View Range,82,78029
+2421,Speed,6,239994
+2422,Act Range,5
+2423,Mutation Rate,-3,076876
+
+24242425,Id,
+2426,Food Quantity,0
+2427,View Range,82,78029
+2428,Speed,6,239994
+2429,Act Range,5
+2430,Mutation Rate,-3,076876
+
+24312432,Id,
+2433,Food Quantity,0
+2434,View Range,82,78029
+2435,Speed,6,239994
+2436,Act Range,5
+2437,Mutation Rate,-3,076876
+
+24382439,Id,
+2440,Food Quantity,0
+2441,View Range,82,78029
+2442,Speed,6,239994
+2443,Act Range,5
+2444,Mutation Rate,-3,076876
+
+24452446,Id,
+2447,Food Quantity,0
+2448,View Range,82,78029
+2449,Speed,6,239994
+2450,Act Range,5
+2451,Mutation Rate,-3,076876
+
+24522453,Id,
+2454,Food Quantity,0
+2455,View Range,71,34344
+2456,Speed,6,988412
+2457,Act Range,5,734967
+2458,Mutation Rate,5,657442
+
+24592460,Id,
+2461,Food Quantity,0
+2462,View Range,75,21062
+2463,Speed,5,821407
+2464,Act Range,5
+2465,Mutation Rate,-2,625039
+
+24662467,Id,
+2468,Food Quantity,0
+2469,View Range,83,99948
+2470,Speed,5,151257
+2471,Act Range,4,730739
+2472,Mutation Rate,4,211608
+
+24732474,Id,
+2475,Food Quantity,0
+2476,View Range,77,15611
+2477,Speed,4,641861
+2478,Act Range,5
+2479,Mutation Rate,-0,2862277
+
+24802481,Id,
+2482,Food Quantity,0
+2483,View Range,69,67811
+2484,Speed,6,761678
+2485,Act Range,4,502639
+2486,Mutation Rate,2,396681
+
+24872488,Id,
+2489,Food Quantity,0
+2490,View Range,89,44902
+2491,Speed,6,421221
+2492,Act Range,5
+2493,Mutation Rate,-0,761112
+
+24942495,Id, 
+2496,Food Quantity,0
+2497,View Range,82,78029
+2498,Speed,6,239994
+2499,Act Range,5
+2500,Mutation Rate,-3,076876
+
+25012502,Id,¡
+2503,Food Quantity,0
+2504,View Range,82,78029
+2505,Speed,6,239994
+2506,Act Range,5
+2507,Mutation Rate,-3,076876
+
+25082509,Id,¢
+2510,Food Quantity,0
+2511,View Range,82,78029
+2512,Speed,6,239994
+2513,Act Range,5
+2514,Mutation Rate,-3,076876
+
+25152516,Id,£
+2517,Food Quantity,0
+2518,View Range,82,78029
+2519,Speed,6,239994
+2520,Act Range,5
+2521,Mutation Rate,-3,076876
+
+25222523,Id,¤
+2524,Food Quantity,0
+2525,View Range,82,78029
+2526,Speed,6,239994
+2527,Act Range,5
+2528,Mutation Rate,-3,076876
+
+25292530,Id,¥
+2531,Food Quantity,0
+2532,View Range,82,78029
+2533,Speed,6,239994
+2534,Act Range,5
+2535,Mutation Rate,-3,076876
+
+25362537,Id,¦
+2538,Food Quantity,0
+2539,View Range,71,05454
+2540,Speed,7,079146
+2541,Act Range,5,438934
+2542,Mutation Rate,5,50608
+
+25432544,Id,§
+2545,Food Quantity,0
+2546,View Range,71,15965
+2547,Speed,6,778299
+2548,Act Range,5,421406
+2549,Mutation Rate,5,170911
+
+25502551,Id,©
+2552,Food Quantity,0
+2553,View Range,84,15697
+2554,Speed,5,544333
+2555,Act Range,4,537289
+2556,Mutation Rate,3,763733
+
+25572558,Id,«
+2559,Food Quantity,0
+2560,View Range,77,15611
+2561,Speed,4,641861
+2562,Act Range,5
+2563,Mutation Rate,-0,2862277
+
+25642565,Id,­
+2566,Food Quantity,0
+2567,View Range,69,533
+2568,Speed,6,661328
+2569,Act Range,4,875972
+2570,Mutation Rate,2,123354
+
+25712572,Id,¯
+2573,Food Quantity,0
+2574,View Range,89,44902
+2575,Speed,6,421221
+2576,Act Range,5
+2577,Mutation Rate,-0,761112
+
+25782579,Id,°
+2580,Food Quantity,0
+2581,View Range,82,78029
+2582,Speed,6,239994
+2583,Act Range,5
+2584,Mutation Rate,-3,076876
+
+25852586,Id,±
+2587,Food Quantity,0
+2588,View Range,82,78029
+2589,Speed,6,239994
+2590,Act Range,5
+2591,Mutation Rate,-3,076876
+
+25922593,Id,³
+2594,Food Quantity,0
+2595,View Range,82,78029
+2596,Speed,6,239994
+2597,Act Range,5
+2598,Mutation Rate,-3,076876
+
+25992600,Id,´
+2601,Food Quantity,0
+2602,View Range,82,78029
+2603,Speed,6,239994
+2604,Act Range,5
+2605,Mutation Rate,-3,076876
+
+26062607,Id,µ
+2608,Food Quantity,0
+2609,View Range,82,78029
+2610,Speed,6,239994
+2611,Act Range,5
+2612,Mutation Rate,-3,076876
+
+26132614,Id,¶
+2615,Food Quantity,0
+2616,View Range,82,78029
+2617,Speed,6,239994
+2618,Act Range,5
+2619,Mutation Rate,-3,076876
+
+26202621,Id,·
+2622,Food Quantity,0
+2623,View Range,82,78029
+2624,Speed,6,239994
+2625,Act Range,5
+2626,Mutation Rate,-3,076876
+
+26272628,Id,¸
+2629,Food Quantity,0
+2630,View Range,82,78029
+2631,Speed,6,239994
+2632,Act Range,5
+2633,Mutation Rate,-3,076876
+
+26342635,Id,¹
+2636,Food Quantity,0
+2637,View Range,82,78029
+2638,Speed,6,239994
+2639,Act Range,5
+2640,Mutation Rate,-3,076876
+
+26412642,Id,º
+2643,Food Quantity,0
+2644,View Range,82,78029
+2645,Speed,6,239994
+2646,Act Range,5
+2647,Mutation Rate,-3,076876
+
+26482649,Id,»
+2650,Food Quantity,0
+2651,View Range,82,78029
+2652,Speed,6,239994
+2653,Act Range,5
+2654,Mutation Rate,-3,076876
+
+26552656,Id,¼
+2657,Food Quantity,0
+2658,View Range,82,78029
+2659,Speed,6,239994
+2660,Act Range,5
+2661,Mutation Rate,-3,076876
+
+26622663,Id,¿
+2664,Food Quantity,0
+2665,View Range,71,04092
+2666,Speed,7,201233
+2667,Act Range,4,981763
+2668,Mutation Rate,4,951016
+
+26692670,Id,À
+2671,Food Quantity,0
+2672,View Range,84,16188
+2673,Speed,5,392515
+2674,Act Range,4,871769
+2675,Mutation Rate,3,442969
+
+26762677,Id,Â
+2678,Food Quantity,0
+2679,View Range,69,39619
+2680,Speed,6,389589
+2681,Act Range,5,288257
+2682,Mutation Rate,1,625354
+
+26832684,Id,Ã
+2685,Food Quantity,0
+2686,View Range,69,04986
+2687,Speed,7,047438
+2688,Act Range,4,69313
+2689,Mutation Rate,1,754684
+
+26902691,Id,Ä
+2692,Food Quantity,0
+2693,View Range,69,30343
+2694,Speed,6,257524
+2695,Act Range,4,5622
+2696,Mutation Rate,1,677595
+
+26972698,Id,Æ
+2699,Food Quantity,0
+2700,View Range,89,44902
+2701,Speed,6,421221
+2702,Act Range,5
+2703,Mutation Rate,-0,761112
+
+27042705,Id,Ç
+2706,Food Quantity,0
+2707,View Range,89,44902
+2708,Speed,6,421221
+2709,Act Range,5
+2710,Mutation Rate,-0,761112
+
+27112712,Id,Ê
+2713,Food Quantity,0
+2714,View Range,82,78029
+2715,Speed,6,239994
+2716,Act Range,5
+2717,Mutation Rate,-3,076876
+
+27182719,Id,Ì
+2720,Food Quantity,0
+2721,View Range,82,78029
+2722,Speed,6,239994
+2723,Act Range,5
+2724,Mutation Rate,-3,076876
+
+27252726,Id,Í
+2727,Food Quantity,0
+2728,View Range,82,78029
+2729,Speed,6,239994
+2730,Act Range,5
+2731,Mutation Rate,-3,076876
+
+27322733,Id,Î
+2734,Food Quantity,0
+2735,View Range,82,78029
+2736,Speed,6,239994
+2737,Act Range,5
+2738,Mutation Rate,-3,076876
+
+27392740,Id,Ð
+2741,Food Quantity,0
+2742,View Range,82,78029
+2743,Speed,6,239994
+2744,Act Range,5
+2745,Mutation Rate,-3,076876
+
+27462747,Id,Ñ
+2748,Food Quantity,0
+2749,View Range,82,78029
+2750,Speed,6,239994
+2751,Act Range,5
+2752,Mutation Rate,-3,076876
+
+27532754,Id,Ø
+2755,Food Quantity,0
+2756,View Range,82,78029
+2757,Speed,6,239994
+2758,Act Range,5
+2759,Mutation Rate,-3,076876
+
+27602761,Id,Ú
+2762,Food Quantity,0
+2763,View Range,82,78029
+2764,Speed,6,239994
+2765,Act Range,5
+2766,Mutation Rate,-3,076876
+
+27672768,Id,Û
+2769,Food Quantity,0
+2770,View Range,82,78029
+2771,Speed,6,239994
+2772,Act Range,5
+2773,Mutation Rate,-3,076876
+
+27742775,Id,Ý
+2776,Food Quantity,0
+2777,View Range,71,3279
+2778,Speed,7,264894
+2779,Act Range,5,22226
+2780,Mutation Rate,4,72189
+
+27812782,Id,Þ
+2783,Food Quantity,0
+2784,View Range,71,32766
+2785,Speed,7,076414
+2786,Act Range,5,053345
+2787,Mutation Rate,5,2242
+
+27882789,Id,à
+2790,Food Quantity,1
+2791,View Range,83,79359
+2792,Speed,5,802843
+2793,Act Range,4,908589
+2794,Mutation Rate,3,160823
+
+27952796,Id,â
+2797,Food Quantity,2
+2798,View Range,68,97941
+2799,Speed,7,406236
+2800,Act Range,4,410681
+2801,Mutation Rate,1,989625
+
+28022803,Id,ç
+2804,Food Quantity,1
+2805,View Range,89,44902
+2806,Speed,6,421221
+2807,Act Range,5
+2808,Mutation Rate,-0,761112
+
+28092810,Id,é
+2811,Food Quantity,1
+2812,View Range,89,44902
+2813,Speed,6,421221
+2814,Act Range,5
+2815,Mutation Rate,-0,761112
+
+28162817,Id,ê
+2818,Food Quantity,1
+2819,View Range,89,44902
+2820,Speed,6,421221
+2821,Act Range,5
+2822,Mutation Rate,-0,761112
+
+28232824,Id,ì
+2825,Food Quantity,1
+2826,View Range,82,78029
+2827,Speed,6,239994
+2828,Act Range,5
+2829,Mutation Rate,-3,076876
+
+28302831,Id,î
+2832,Food Quantity,1
+2833,View Range,82,78029
+2834,Speed,6,239994
+2835,Act Range,5
+2836,Mutation Rate,-3,076876
+
+28372838,Id,ï
+2839,Food Quantity,2
+2840,View Range,82,78029
+2841,Speed,6,239994
+2842,Act Range,5
+2843,Mutation Rate,-3,076876
+
+28442845,Id,ð
+2846,Food Quantity,1
+2847,View Range,82,78029
+2848,Speed,6,239994
+2849,Act Range,5
+2850,Mutation Rate,-3,076876
+
+28512852,Id,ñ
+2853,Food Quantity,1
+2854,View Range,82,78029
+2855,Speed,6,239994
+2856,Act Range,5
+2857,Mutation Rate,-3,076876
+
+28582859,Id,ó
+2860,Food Quantity,1
+2861,View Range,82,78029
+2862,Speed,6,239994
+2863,Act Range,5
+2864,Mutation Rate,-3,076876
+
+28652866,Id,õ
+2867,Food Quantity,1
+2868,View Range,82,78029
+2869,Speed,6,239994
+2870,Act Range,5
+2871,Mutation Rate,-3,076876
+
+28722873,Id,ö
+2874,Food Quantity,2
+2875,View Range,82,78029
+2876,Speed,6,239994
+2877,Act Range,5
+2878,Mutation Rate,-3,076876
+
+28792880,Id,÷
+2881,Food Quantity,2
+2882,View Range,82,78029
+2883,Speed,6,239994
+2884,Act Range,5
+2885,Mutation Rate,-3,076876
+
+28862887,Id,ú
+2888,Food Quantity,1
+2889,View Range,82,78029
+2890,Speed,6,239994
+2891,Act Range,5
+2892,Mutation Rate,-3,076876
+
+28932894,Id,ü
+2895,Food Quantity,2
+2896,View Range,71,45905
+2897,Speed,7,737087
+2898,Act Range,5,613172
+2899,Mutation Rate,4,387186
+
+29002901,Id,ý
+2902,Food Quantity,1
+2903,View Range,71,70952
+2904,Speed,7,253294
+2905,Act Range,4,936695
+2906,Mutation Rate,5,449643
+
+29072908,Id,7
+2909,Survived Animals,16
+2910,Total Animals,121
+2911,Available Food,25
+
+29122913,Id,E
+2914,Food Quantity,0
+2915,View Range,82,70525
+2916,Speed,3,125404
+2917,Act Range,5
+2918,Mutation Rate,-3,331254
+
+29192920,Id,I
+2921,Food Quantity,0
+2922,View Range,84,29933
+2923,Speed,4,711675
+2924,Act Range,5
+2925,Mutation Rate,3,895024
+
+29262927,Id,O
+2928,Food Quantity,0
+2929,View Range,73,38651
+2930,Speed,5,409544
+2931,Act Range,5
+2932,Mutation Rate,-2,274142
+
+29332934,Id,Q
+2935,Food Quantity,0
+2936,View Range,86,65938
+2937,Speed,4,680126
+2938,Act Range,5
+2939,Mutation Rate,3,813772
+
+29402941,Id,R
+2942,Food Quantity,0
+2943,View Range,77,15611
+2944,Speed,4,641861
+2945,Act Range,5
+2946,Mutation Rate,-0,2862277
+
+29472948,Id,T
+2949,Food Quantity,0
+2950,View Range,86,87805
+2951,Speed,3,98246
+2952,Act Range,5
+2953,Mutation Rate,-1,562943
+
+29542955,Id,U
+2956,Food Quantity,0
+2957,View Range,77,58801
+2958,Speed,4,818453
+2959,Act Range,5
+2960,Mutation Rate,4,600865
+
+29612962,Id,W
+2963,Food Quantity,0
+2964,View Range,70,20193
+2965,Speed,6,247157
+2966,Act Range,5
+2967,Mutation Rate,2,466098
+
+29682969,Id,Y
+2970,Food Quantity,0
+2971,View Range,89,44902
+2972,Speed,6,421221
+2973,Act Range,5
+2974,Mutation Rate,-0,761112
+
+29752976,Id,Z
+2977,Food Quantity,0
+2978,View Range,82,78029
+2979,Speed,6,239994
+2980,Act Range,5
+2981,Mutation Rate,-3,076876
+
+29822983,Id,]
+2984,Food Quantity,0
+2985,View Range,86,56601
+2986,Speed,5,034059
+2987,Act Range,5
+2988,Mutation Rate,-4,509165
+
+29892990,Id,^
+2991,Food Quantity,0
+2992,View Range,81,65321
+2993,Speed,3,062875
+2994,Act Range,5
+2995,Mutation Rate,3,445953
+
+29962997,Id,`
+2998,Food Quantity,0
+2999,View Range,70,61039
+3000,Speed,6,232378
+3001,Act Range,5
+3002,Mutation Rate,5,059803
+
+30033004,Id,c
+3005,Food Quantity,0
+3006,View Range,81,26777
+3007,Speed,3,356554
+3008,Act Range,5
+3009,Mutation Rate,-2,232746
+
+30103011,Id,e
+3012,Food Quantity,0
+3013,View Range,78,04607
+3014,Speed,4,012207
+3015,Act Range,5
+3016,Mutation Rate,-2,773454
+
+30173018,Id,f
+3019,Food Quantity,0
+3020,View Range,75,21062
+3021,Speed,5,821407
+3022,Act Range,5
+3023,Mutation Rate,-2,625039
+
+30243025,Id,j
+3026,Food Quantity,0
+3027,View Range,70,70115
+3028,Speed,4,393878
+3029,Act Range,5
+3030,Mutation Rate,4,509479
+
+30313032,Id,k
+3033,Food Quantity,0
+3034,View Range,85,0531
+3035,Speed,3,523571
+3036,Act Range,5
+3037,Mutation Rate,0,2640775
+
+30383039,Id,m
+3040,Food Quantity,0
+3041,View Range,88,4946
+3042,Speed,6,43012
+3043,Act Range,5
+3044,Mutation Rate,2,127145
+
+30453046,Id,t
+3047,Food Quantity,0
+3048,View Range,84,48058
+3049,Speed,5,116094
+3050,Act Range,4,700749
+3051,Mutation Rate,4,38881
+
+30523053,Id,w
+3054,Food Quantity,0
+3055,View Range,86,22919
+3056,Speed,5,096833
+3057,Act Range,5,377646
+3058,Mutation Rate,3,932398
+
+30593060,Id,x
+3061,Food Quantity,0
+3062,View Range,77,15611
+3063,Speed,4,641861
+3064,Act Range,5
+3065,Mutation Rate,-0,2862277
+
+30663067,Id,y
+3068,Food Quantity,0
+3069,View Range,77,15611
+3070,Speed,4,641861
+3071,Act Range,5
+3072,Mutation Rate,-0,2862277
+
+30733074,Id,|
+3075,Food Quantity,0
+3076,View Range,70,57968
+3077,Speed,6,67113
+3078,Act Range,4,802546
+3079,Mutation Rate,2,250141
+
+30803081,Id,}
+3082,Food Quantity,0
+3083,View Range,89,44902
+3084,Speed,6,421221
+3085,Act Range,5
+3086,Mutation Rate,-0,761112
+
+30873088,Id,~
+3089,Food Quantity,0
+3090,View Range,82,78029
+3091,Speed,6,239994
+3092,Act Range,5
+3093,Mutation Rate,-3,076876
+
+30943095,Id,
+3096,Food Quantity,0
+3097,View Range,82,78029
+3098,Speed,6,239994
+3099,Act Range,5
+3100,Mutation Rate,-3,076876
+
+31013102,Id,
+3103,Food Quantity,0
+3104,View Range,86,56601
+3105,Speed,5,034059
+3106,Act Range,5
+3107,Mutation Rate,-4,509165
+
+31083109,Id,
+3110,Food Quantity,0
+3111,View Range,71,01836
+3112,Speed,6,543836
+3113,Act Range,5,291816
+3114,Mutation Rate,5,351661
+
+31153116,Id,
+3117,Food Quantity,0
+3118,View Range,75,21062
+3119,Speed,5,821407
+3120,Act Range,5
+3121,Mutation Rate,-2,625039
+
+31223123,Id,
+3124,Food Quantity,0
+3125,View Range,70,33787
+3126,Speed,4,231518
+3127,Act Range,4,937742
+3128,Mutation Rate,4,293087
+
+31293130,Id,
+3131,Food Quantity,0
+3132,View Range,84,2851
+3133,Speed,4,948458
+3134,Act Range,4,352922
+3135,Mutation Rate,4,654167
+
+31363137,Id,
+3138,Food Quantity,0
+3139,View Range,77,15611
+3140,Speed,4,641861
+3141,Act Range,5
+3142,Mutation Rate,-0,2862277
+
+31433144,Id,
+3145,Food Quantity,0
+3146,View Range,70,09583
+3147,Speed,7,112736
+3148,Act Range,4,995033
+3149,Mutation Rate,2,718156
+
+31503151,Id,
+3152,Food Quantity,0
+3153,View Range,89,44902
+3154,Speed,6,421221
+3155,Act Range,5
+3156,Mutation Rate,-0,761112
+
+31573158,Id,
+3159,Food Quantity,0
+3160,View Range,82,78029
+3161,Speed,6,239994
+3162,Act Range,5
+3163,Mutation Rate,-3,076876
+
+31643165,Id,
+3166,Food Quantity,0
+3167,View Range,82,78029
+3168,Speed,6,239994
+3169,Act Range,5
+3170,Mutation Rate,-3,076876
+
+31713172,Id,
+3173,Food Quantity,0
+3174,View Range,82,78029
+3175,Speed,6,239994
+3176,Act Range,5
+3177,Mutation Rate,-3,076876
+
+31783179,Id,
+3180,Food Quantity,0
+3181,View Range,82,78029
+3182,Speed,6,239994
+3183,Act Range,5
+3184,Mutation Rate,-3,076876
+
+31853186,Id,
+3187,Food Quantity,0
+3188,View Range,82,78029
+3189,Speed,6,239994
+3190,Act Range,5
+3191,Mutation Rate,-3,076876
+
+31923193,Id,
+3194,Food Quantity,0
+3195,View Range,71,34344
+3196,Speed,6,988412
+3197,Act Range,5,734967
+3198,Mutation Rate,5,657442
+
+31993200,Id,
+3201,Food Quantity,0
+3202,View Range,75,21062
+3203,Speed,5,821407
+3204,Act Range,5
+3205,Mutation Rate,-2,625039
+
+32063207,Id,
+3208,Food Quantity,0
+3209,View Range,83,99948
+3210,Speed,5,151257
+3211,Act Range,4,730739
+3212,Mutation Rate,4,211608
+
+32133214,Id,
+3215,Food Quantity,0
+3216,View Range,77,15611
+3217,Speed,4,641861
+3218,Act Range,5
+3219,Mutation Rate,-0,2862277
+
+32203221,Id,
+3222,Food Quantity,0
+3223,View Range,69,67811
+3224,Speed,6,761678
+3225,Act Range,4,502639
+3226,Mutation Rate,2,396681
+
+32273228,Id,
+3229,Food Quantity,0
+3230,View Range,89,44902
+3231,Speed,6,421221
+3232,Act Range,5
+3233,Mutation Rate,-0,761112
+
+32343235,Id, 
+3236,Food Quantity,0
+3237,View Range,82,78029
+3238,Speed,6,239994
+3239,Act Range,5
+3240,Mutation Rate,-3,076876
+
+32413242,Id,¡
+3243,Food Quantity,0
+3244,View Range,82,78029
+3245,Speed,6,239994
+3246,Act Range,5
+3247,Mutation Rate,-3,076876
+
+32483249,Id,¢
+3250,Food Quantity,0
+3251,View Range,82,78029
+3252,Speed,6,239994
+3253,Act Range,5
+3254,Mutation Rate,-3,076876
+
+32553256,Id,£
+3257,Food Quantity,0
+3258,View Range,82,78029
+3259,Speed,6,239994
+3260,Act Range,5
+3261,Mutation Rate,-3,076876
+
+32623263,Id,¤
+3264,Food Quantity,0
+3265,View Range,82,78029
+3266,Speed,6,239994
+3267,Act Range,5
+3268,Mutation Rate,-3,076876
+
+32693270,Id,¥
+3271,Food Quantity,0
+3272,View Range,82,78029
+3273,Speed,6,239994
+3274,Act Range,5
+3275,Mutation Rate,-3,076876
+
+32763277,Id,¦
+3278,Food Quantity,0
+3279,View Range,71,05454
+3280,Speed,7,079146
+3281,Act Range,5,438934
+3282,Mutation Rate,5,50608
+
+32833284,Id,§
+3285,Food Quantity,0
+3286,View Range,71,15965
+3287,Speed,6,778299
+3288,Act Range,5,421406
+3289,Mutation Rate,5,170911
+
+32903291,Id,©
+3292,Food Quantity,0
+3293,View Range,84,15697
+3294,Speed,5,544333
+3295,Act Range,4,537289
+3296,Mutation Rate,3,763733
+
+32973298,Id,«
+3299,Food Quantity,0
+3300,View Range,77,15611
+3301,Speed,4,641861
+3302,Act Range,5
+3303,Mutation Rate,-0,2862277
+
+33043305,Id,­
+3306,Food Quantity,0
+3307,View Range,69,533
+3308,Speed,6,661328
+3309,Act Range,4,875972
+3310,Mutation Rate,2,123354
+
+33113312,Id,¯
+3313,Food Quantity,0
+3314,View Range,89,44902
+3315,Speed,6,421221
+3316,Act Range,5
+3317,Mutation Rate,-0,761112
+
+33183319,Id,°
+3320,Food Quantity,0
+3321,View Range,82,78029
+3322,Speed,6,239994
+3323,Act Range,5
+3324,Mutation Rate,-3,076876
+
+33253326,Id,±
+3327,Food Quantity,0
+3328,View Range,82,78029
+3329,Speed,6,239994
+3330,Act Range,5
+3331,Mutation Rate,-3,076876
+
+33323333,Id,³
+3334,Food Quantity,0
+3335,View Range,82,78029
+3336,Speed,6,239994
+3337,Act Range,5
+3338,Mutation Rate,-3,076876
+
+33393340,Id,´
+3341,Food Quantity,0
+3342,View Range,82,78029
+3343,Speed,6,239994
+3344,Act Range,5
+3345,Mutation Rate,-3,076876
+
+33463347,Id,µ
+3348,Food Quantity,0
+3349,View Range,82,78029
+3350,Speed,6,239994
+3351,Act Range,5
+3352,Mutation Rate,-3,076876
+
+33533354,Id,¶
+3355,Food Quantity,0
+3356,View Range,82,78029
+3357,Speed,6,239994
+3358,Act Range,5
+3359,Mutation Rate,-3,076876
+
+33603361,Id,·
+3362,Food Quantity,0
+3363,View Range,82,78029
+3364,Speed,6,239994
+3365,Act Range,5
+3366,Mutation Rate,-3,076876
+
+33673368,Id,¸
+3369,Food Quantity,0
+3370,View Range,82,78029
+3371,Speed,6,239994
+3372,Act Range,5
+3373,Mutation Rate,-3,076876
+
+33743375,Id,¹
+3376,Food Quantity,0
+3377,View Range,82,78029
+3378,Speed,6,239994
+3379,Act Range,5
+3380,Mutation Rate,-3,076876
+
+33813382,Id,º
+3383,Food Quantity,0
+3384,View Range,82,78029
+3385,Speed,6,239994
+3386,Act Range,5
+3387,Mutation Rate,-3,076876
+
+33883389,Id,»
+3390,Food Quantity,0
+3391,View Range,82,78029
+3392,Speed,6,239994
+3393,Act Range,5
+3394,Mutation Rate,-3,076876
+
+33953396,Id,¼
+3397,Food Quantity,0
+3398,View Range,82,78029
+3399,Speed,6,239994
+3400,Act Range,5
+3401,Mutation Rate,-3,076876
+
+34023403,Id,¿
+3404,Food Quantity,0
+3405,View Range,71,04092
+3406,Speed,7,201233
+3407,Act Range,4,981763
+3408,Mutation Rate,4,951016
+
+34093410,Id,À
+3411,Food Quantity,0
+3412,View Range,84,16188
+3413,Speed,5,392515
+3414,Act Range,4,871769
+3415,Mutation Rate,3,442969
+
+34163417,Id,Â
+3418,Food Quantity,0
+3419,View Range,69,39619
+3420,Speed,6,389589
+3421,Act Range,5,288257
+3422,Mutation Rate,1,625354
+
+34233424,Id,Ã
+3425,Food Quantity,0
+3426,View Range,69,04986
+3427,Speed,7,047438
+3428,Act Range,4,69313
+3429,Mutation Rate,1,754684
+
+34303431,Id,Ä
+3432,Food Quantity,0
+3433,View Range,69,30343
+3434,Speed,6,257524
+3435,Act Range,4,5622
+3436,Mutation Rate,1,677595
+
+34373438,Id,Æ
+3439,Food Quantity,0
+3440,View Range,89,44902
+3441,Speed,6,421221
+3442,Act Range,5
+3443,Mutation Rate,-0,761112
+
+34443445,Id,Ç
+3446,Food Quantity,0
+3447,View Range,89,44902
+3448,Speed,6,421221
+3449,Act Range,5
+3450,Mutation Rate,-0,761112
+
+34513452,Id,Ê
+3453,Food Quantity,0
+3454,View Range,82,78029
+3455,Speed,6,239994
+3456,Act Range,5
+3457,Mutation Rate,-3,076876
+
+34583459,Id,Ì
+3460,Food Quantity,0
+3461,View Range,82,78029
+3462,Speed,6,239994
+3463,Act Range,5
+3464,Mutation Rate,-3,076876
+
+34653466,Id,Í
+3467,Food Quantity,0
+3468,View Range,82,78029
+3469,Speed,6,239994
+3470,Act Range,5
+3471,Mutation Rate,-3,076876
+
+34723473,Id,Î
+3474,Food Quantity,0
+3475,View Range,82,78029
+3476,Speed,6,239994
+3477,Act Range,5
+3478,Mutation Rate,-3,076876
+
+34793480,Id,Ð
+3481,Food Quantity,0
+3482,View Range,82,78029
+3483,Speed,6,239994
+3484,Act Range,5
+3485,Mutation Rate,-3,076876
+
+34863487,Id,Ñ
+3488,Food Quantity,0
+3489,View Range,82,78029
+3490,Speed,6,239994
+3491,Act Range,5
+3492,Mutation Rate,-3,076876
+
+34933494,Id,Ø
+3495,Food Quantity,0
+3496,View Range,82,78029
+3497,Speed,6,239994
+3498,Act Range,5
+3499,Mutation Rate,-3,076876
+
+35003501,Id,Ú
+3502,Food Quantity,0
+3503,View Range,82,78029
+3504,Speed,6,239994
+3505,Act Range,5
+3506,Mutation Rate,-3,076876
+
+35073508,Id,Û
+3509,Food Quantity,0
+3510,View Range,82,78029
+3511,Speed,6,239994
+3512,Act Range,5
+3513,Mutation Rate,-3,076876
+
+35143515,Id,Ý
+3516,Food Quantity,0
+3517,View Range,71,3279
+3518,Speed,7,264894
+3519,Act Range,5,22226
+3520,Mutation Rate,4,72189
+
+35213522,Id,Þ
+3523,Food Quantity,0
+3524,View Range,71,32766
+3525,Speed,7,076414
+3526,Act Range,5,053345
+3527,Mutation Rate,5,2242
+
+35283529,Id,à
+3530,Food Quantity,0
+3531,View Range,83,79359
+3532,Speed,5,802843
+3533,Act Range,4,908589
+3534,Mutation Rate,3,160823
+
+35353536,Id,â
+3537,Food Quantity,0
+3538,View Range,68,97941
+3539,Speed,7,406236
+3540,Act Range,4,410681
+3541,Mutation Rate,1,989625
+
+35423543,Id,ç
+3544,Food Quantity,0
+3545,View Range,89,44902
+3546,Speed,6,421221
+3547,Act Range,5
+3548,Mutation Rate,-0,761112
+
+35493550,Id,é
+3551,Food Quantity,0
+3552,View Range,89,44902
+3553,Speed,6,421221
+3554,Act Range,5
+3555,Mutation Rate,-0,761112
+
+35563557,Id,ê
+3558,Food Quantity,0
+3559,View Range,89,44902
+3560,Speed,6,421221
+3561,Act Range,5
+3562,Mutation Rate,-0,761112
+
+35633564,Id,ì
+3565,Food Quantity,0
+3566,View Range,82,78029
+3567,Speed,6,239994
+3568,Act Range,5
+3569,Mutation Rate,-3,076876
+
+35703571,Id,î
+3572,Food Quantity,0
+3573,View Range,82,78029
+3574,Speed,6,239994
+3575,Act Range,5
+3576,Mutation Rate,-3,076876
+
+35773578,Id,ï
+3579,Food Quantity,0
+3580,View Range,82,78029
+3581,Speed,6,239994
+3582,Act Range,5
+3583,Mutation Rate,-3,076876
+
+35843585,Id,ð
+3586,Food Quantity,0
+3587,View Range,82,78029
+3588,Speed,6,239994
+3589,Act Range,5
+3590,Mutation Rate,-3,076876
+
+35913592,Id,ñ
+3593,Food Quantity,0
+3594,View Range,82,78029
+3595,Speed,6,239994
+3596,Act Range,5
+3597,Mutation Rate,-3,076876
+
+35983599,Id,ó
+3600,Food Quantity,0
+3601,View Range,82,78029
+3602,Speed,6,239994
+3603,Act Range,5
+3604,Mutation Rate,-3,076876
+
+36053606,Id,õ
+3607,Food Quantity,0
+3608,View Range,82,78029
+3609,Speed,6,239994
+3610,Act Range,5
+3611,Mutation Rate,-3,076876
+
+36123613,Id,ö
+3614,Food Quantity,0
+3615,View Range,82,78029
+3616,Speed,6,239994
+3617,Act Range,5
+3618,Mutation Rate,-3,076876
+
+36193620,Id,÷
+3621,Food Quantity,0
+3622,View Range,82,78029
+3623,Speed,6,239994
+3624,Act Range,5
+3625,Mutation Rate,-3,076876
+
+36263627,Id,ú
+3628,Food Quantity,0
+3629,View Range,82,78029
+3630,Speed,6,239994
+3631,Act Range,5
+3632,Mutation Rate,-3,076876
+
+36333634,Id,ü
+3635,Food Quantity,0
+3636,View Range,71,45905
+3637,Speed,7,737087
+3638,Act Range,5,613172
+3639,Mutation Rate,4,387186
+
+36403641,Id,ý
+3642,Food Quantity,0
+3643,View Range,71,70952
+3644,Speed,7,253294
+3645,Act Range,4,936695
+3646,Mutation Rate,5,449643
+
+36473648,Id,ÿ
+3649,Food Quantity,1
+3650,View Range,83,88416
+3651,Speed,6,240364
+3652,Act Range,5,250352
+3653,Mutation Rate,2,720446
+
+36543655,Id,Ā
+3656,Food Quantity,1
+3657,View Range,69,42643
+3658,Speed,7,518917
+3659,Act Range,4,18082
+3660,Mutation Rate,1,997581
+
+36613662,Id,ā
+3663,Food Quantity,1
+3664,View Range,68,75023
+3665,Speed,7,456105
+3666,Act Range,4,477678
+3667,Mutation Rate,1,699357
+
+36683669,Id,Ă
+3670,Food Quantity,1
+3671,View Range,89,44902
+3672,Speed,6,421221
+3673,Act Range,5
+3674,Mutation Rate,-0,761112
+
+36753676,Id,Ą
+3677,Food Quantity,1
+3678,View Range,89,44902
+3679,Speed,6,421221
+3680,Act Range,5
+3681,Mutation Rate,-0,761112
+
+36823683,Id,ą
+3684,Food Quantity,2
+3685,View Range,82,78029
+3686,Speed,6,239994
+3687,Act Range,5
+3688,Mutation Rate,-3,076876
+
+36893690,Id,Ć
+3691,Food Quantity,1
+3692,View Range,82,78029
+3693,Speed,6,239994
+3694,Act Range,5
+3695,Mutation Rate,-3,076876
+
+36963697,Id,ć
+3698,Food Quantity,1
+3699,View Range,82,78029
+3700,Speed,6,239994
+3701,Act Range,5
+3702,Mutation Rate,-3,076876
+
+37033704,Id,ĉ
+3705,Food Quantity,1
+3706,View Range,82,78029
+3707,Speed,6,239994
+3708,Act Range,5
+3709,Mutation Rate,-3,076876
+
+37103711,Id,Ċ
+3712,Food Quantity,2
+3713,View Range,82,78029
+3714,Speed,6,239994
+3715,Act Range,5
+3716,Mutation Rate,-3,076876
+
+37173718,Id,ċ
+3719,Food Quantity,2
+3720,View Range,82,78029
+3721,Speed,6,239994
+3722,Act Range,5
+3723,Mutation Rate,-3,076876
+
+37243725,Id,č
+3726,Food Quantity,2
+3727,View Range,82,78029
+3728,Speed,6,239994
+3729,Act Range,5
+3730,Mutation Rate,-3,076876
+
+37313732,Id,Đ
+3733,Food Quantity,1
+3734,View Range,82,78029
+3735,Speed,6,239994
+3736,Act Range,5
+3737,Mutation Rate,-3,076876
+
+37383739,Id,đ
+3740,Food Quantity,1
+3741,View Range,82,78029
+3742,Speed,6,239994
+3743,Act Range,5
+3744,Mutation Rate,-3,076876
+
+37453746,Id,ē
+3747,Food Quantity,1
+3748,View Range,71,5174
+3749,Speed,7,477608
+3750,Act Range,5,484155
+3751,Mutation Rate,4,582824
+
+37523753,Id,Ĕ
+3754,Food Quantity,1
+3755,View Range,71,23845
+3756,Speed,6,909541
+3757,Act Range,4,539027
+3758,Mutation Rate,5,024554
+

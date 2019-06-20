@@ -63,6 +63,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Generations\DebugSimulationData.cs" />
+    <Compile Include="Generations\DefaultClasses\WorldTime.cs" />
     <Compile Include="Generations\Interfaces\ISimulableEntity.cs" />
     <Compile Include="Generations\Interfaces\IUpdateableEntity.cs" />
     <Compile Include="Generations\Items\Apple.cs" />
@@ -71,6 +73,7 @@
     <Compile Include="Generations\DefaultClasses\Food.cs" />
     <Compile Include="Generations\DefaultClasses\MovingEntity.cs" />
     <Compile Include="Generations\Interfaces\IDrawableEntity.cs" />
+    <Compile Include="Generations\Items\House.cs" />
     <Compile Include="Generations\Items\Rabbit.cs" />
     <Compile Include="Generations\Simulation.cs" />
     <Compile Include="Program.cs" />

@@ -9,10 +9,14 @@ namespace Generations.DefaultClasses
 {
     abstract class Food : Entity
     {
-        public Food(Vector2f position) : base(position)
-        {
 
+        static Food()
+        {
         }
 
+        public Food(Vector2f position) : base(position)
+        {
+            
+        }
     }
 }

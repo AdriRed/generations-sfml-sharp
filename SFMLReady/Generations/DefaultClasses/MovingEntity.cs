@@ -5,7 +5,6 @@ namespace Generations.DefaultClasses
 {
     abstract class MovingEntity : Entity
     {
-        private static float factor = 0.0001f;
         public Vector2f Facing;
 
         public MovingEntity(Vector2f position, Vector2f facing) : base(position)

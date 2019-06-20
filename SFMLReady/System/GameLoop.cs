@@ -79,8 +79,13 @@ namespace SFMLReady.System
                 //    Draw(GameTime);
                 //    Window.Display();
                 //}
+                float elapsedTime = clock.ElapsedTime.AsMilliseconds();
                 GameTime.Update(TimeUntilUpdate, clock.ElapsedTime.AsSeconds());
                 Update(GameTime);
+                elapsedTime = clock.ElapsedTime.AsMilliseconds() - elapsedTime;
+
+                if (TimeUntilUpdate * 1000 < elapsedTime)
+                    Thread.Sleep((int)(elapsedTime - TimeUntilUpdate * 1000));
 
                 Window.Clear(ClearColor);
                 Draw(GameTime);

@@ -54,5 +54,15 @@ namespace SFMLReady.Libraries
             return result;
         }
 
+        public static Vector2f Random(Random rd, float minX, float maxX, float minY, float maxY)
+        {
+            float variationX = maxX - minX;
+            float variationY = maxY - minY;
+
+            float X = (float)rd.NextDouble() * variationX + minX;
+            float Y = (float)rd.NextDouble() * variationY + minY;
+
+            return new Vector2f(X, Y);
+        }
     }
 }

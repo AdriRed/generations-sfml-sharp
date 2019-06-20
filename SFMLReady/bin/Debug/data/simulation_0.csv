@@ -1,0 +1,139 @@
+1,Total animals,74
+23,,Id,0
+4,,Survived Animals,19
+5,,Total Animals,19
+6,,Available Food,23
+
+78,,Id,B
+9,,Food Quantity,1
+10,,View Range,72,0645
+11,,Speed,5,158178
+12,,Act Range,5
+13,,Mutation Rate,-3,691239
+
+1415,,Id,C
+16,,Food Quantity,1
+17,,View Range,75,04327
+18,,Speed,5,60437
+19,,Act Range,5
+20,,Mutation Rate,1,832355
+
+2122,,Id,H
+23,,Food Quantity,1
+24,,View Range,74,30107
+25,,Speed,6,945807
+26,,Act Range,5
+27,,Mutation Rate,0,8651105
+
+2829,,Id,K
+30,,Food Quantity,1
+31,,View Range,75,8989
+32,,Speed,6,083754
+33,,Act Range,5
+34,,Mutation Rate,-1,74412
+
+3536,,Id,M
+37,,Food Quantity,2
+38,,View Range,71,23271
+39,,Speed,5,120233
+40,,Act Range,5
+41,,Mutation Rate,2,072697
+
+4243,,Id,O
+44,,Food Quantity,1
+45,,View Range,85,7443
+46,,Speed,6,170361
+47,,Act Range,5
+48,,Mutation Rate,0,5361663
+
+4950,,Id,R
+51,,Food Quantity,1
+52,,View Range,71,01549
+53,,Speed,6,875048
+54,,Act Range,5
+55,,Mutation Rate,-2,284215
+
+5657,,Id,T
+58,,Food Quantity,2
+59,,View Range,73,83089
+60,,Speed,3,137339
+61,,Act Range,5
+62,,Mutation Rate,1,538777
+
+6364,,Id,U
+65,,Food Quantity,1
+66,,View Range,86,82139
+67,,Speed,3,674918
+68,,Act Range,5
+69,,Mutation Rate,4,229167
+
+7071,,Id,W
+72,,Food Quantity,1
+73,,View Range,76,0449
+74,,Speed,6,048448
+75,,Act Range,5
+76,,Mutation Rate,3,186441
+
+7778,,Id,X
+79,,Food Quantity,1
+80,,View Range,89,8384
+81,,Speed,3,357093
+82,,Act Range,5
+83,,Mutation Rate,-3,31291
+
+8485,,Id,Z
+86,,Food Quantity,2
+87,,View Range,79,18515
+88,,Speed,4,7712
+89,,Act Range,5
+90,,Mutation Rate,-1,997267
+
+9192,,Id,[
+93,,Food Quantity,1
+94,,View Range,87,29821
+95,,Speed,6,362695
+96,,Act Range,5
+97,,Mutation Rate,-2,0195
+
+9899,,Id,\
+100,,Food Quantity,2
+101,,View Range,78,42899
+102,,Speed,6,682259
+103,,Act Range,5
+104,,Mutation Rate,-1,401132
+
+105106,,Id,]
+107,,Food Quantity,1
+108,,View Range,84,81232
+109,,Speed,5,774043
+110,,Act Range,5
+111,,Mutation Rate,-4,682967
+
+112113,,Id,b
+114,,Food Quantity,1
+115,,View Range,77,84193
+116,,Speed,6,690501
+117,,Act Range,5
+118,,Mutation Rate,-2,576672
+
+119120,,Id,g
+121,,Food Quantity,1
+122,,View Range,76,64877
+123,,Speed,6,181388
+124,,Act Range,5
+125,,Mutation Rate,5,114981
+
+126127,,Id,p
+128,,Food Quantity,1
+129,,View Range,75,22521
+130,,Speed,6,234601
+131,,Act Range,5
+132,,Mutation Rate,-1,63545
+
+133134,,Id,r
+135,,Food Quantity,1
+136,,View Range,86,81099
+137,,Speed,6,935472
+138,,Act Range,5
+139,,Mutation Rate,-1,635789
+

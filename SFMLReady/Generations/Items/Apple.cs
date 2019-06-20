@@ -23,11 +23,11 @@ namespace Generations.Items
             shape.OutlineThickness = Outline;
             shape.OutlineColor = OutlineColor;
             shape.Origin = new Vector2f(Radius, Radius);
+            shape.Position = this.Position;
         }
 
         public override void Draw(RenderWindow Window)
         {
-            shape.Position = this.Position;
             Window.Draw(shape);
         }
     }
