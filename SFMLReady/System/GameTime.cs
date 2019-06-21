@@ -3,7 +3,7 @@
     public class GameTime
     {
         private float _deltaTime = 0f;
-        private float _timeScale = 3f;
+        private float _timeScale = 10f;
 
         public float TimeScale
         {

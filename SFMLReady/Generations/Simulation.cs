@@ -19,7 +19,7 @@ namespace Generations
         private List<Entity> Entities;
         public List<GenerationData> SimulationData;
         Random rd;
-        private int AppleQuant = 25, RabbitQuant = 100, MinApples = 10;
+        private int AppleQuant = 50, RabbitQuant = 200, MinApples = 10;
         public WorldTime WorldTime { get; private set; }
 
         public SimulationData AllData
@@ -37,7 +37,9 @@ namespace Generations
                 int count = 0;
                 foreach (Entity item in Entities)
                 {
-                    if (item is Animal) count++;
+                    if (item is Animal a)
+                        if (!a.CanDispose)
+                            count++;
                 }
                 return count;
             }
@@ -68,13 +70,14 @@ namespace Generations
             {
                 item.Draw(Window);
             }
+            DebugSimulationData.DrawData(this);
         }
 
         public override void Initialize()
         {
             
             //Set house
-            Entities.Add(new House(new Vector2f(Window.Size.X / 2, Window.Size.Y / 2)));
+            Entities.Add(new House(new Vector2f(Window.Size.X - 10, Window.Size.Y / 2)));
             DebugSimulationData.LoadContent();
 
             SetFood();
@@ -111,8 +114,11 @@ namespace Generations
         {
             Vector2f position, facing;
 
-            position = Vector2.Random(rd, Padding, Window.Size.X - Padding, Padding, Window.Size.Y - Padding);
+            //position = Vector2.Random(rd, Padding, Window.Size.X - Padding, Padding, Window.Size.Y - Padding);
+            position = new Vector2f(10, Window.Size.Y / 2);
+
             facing = Vector2.Random(rd, -1, 1, -1, 1);
+
 
             return new Rabbit(position, facing, data, rd, Entities, (Vector2f)Window.Size, WorldTime);
         }
@@ -157,11 +163,13 @@ namespace Generations
             GeneticData newData;
             for (int i = 0; i < maximum; i++)
             {
-                if (Entities[i] is Animal newAnimal)
+                if (Entities[i] is Animal animal)
                 {
-                    for (int r = 0; r < newAnimal.FoodQuantity; r++)
+                    if (animal is Rabbit rabbit) rabbit.InHouse = false;
+                    animal.Position = new Vector2f(10, Window.Size.Y / 2);
+                    for (int r = 1; r < animal.FoodQuantity; r++)
                     {
-                        newData = newAnimal.GeneticData.Copy();
+                        newData = animal.GeneticData.Copy();
                         if (rd.NextDouble() <= newData.MutationRate)
                         {
                             newData.Mutate(rd);
@@ -169,13 +177,21 @@ namespace Generations
 
                         Entities.Add(NewRabbit(newData));
                     }
-                    newAnimal.FoodQuantity = 0;
+                    animal.FoodQuantity = 0;
                 }
             }
             WorldTime.NewDay();
             if (AppleQuant-- < MinApples)
                 AppleQuant++;
             SetFood();
+
+            foreach (Entity item in Entities)
+            {
+                if (item is Rabbit r)
+                {
+                    r.shape.Scale += new Vector2f(1, 1);
+                }
+            }
         }
 
         private void SaveData()

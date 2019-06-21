@@ -17,9 +17,9 @@ namespace SFMLReady
             Simulation s = new Simulation(1300, 800, "SIMULATION", Color.White);
             s.Run();
 
-            SimulationData data = s.AllData;
+            // SimulationData data = s.AllData;
 
-            FileSaveData(data);
+            // FileSaveData(data);
 
         }
 

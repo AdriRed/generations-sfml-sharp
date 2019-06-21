@@ -14,6 +14,7 @@ namespace Generations.Items
     class Rabbit : Animal
     {
         private readonly float EnergyDefault = 100000;
+
         private float DeltaEnergy
         {
             get
@@ -21,6 +22,7 @@ namespace Generations.Items
                 return GeneticData.Speed * GeneticData.ViewRange;
             }
         }
+
         private static float Size = 7, Outline = 1;
         private static Color OutlineColor = Color.Black, FillColor = Color.Yellow, RangeColor = new Color(0, 0, 0, 0);
         protected override double FacingVariance
@@ -31,8 +33,9 @@ namespace Generations.Items
             }
         }
 
-        private bool InHouse = false;
-        private Shape shape;
+        private Text lbl_Food;
+        public bool InHouse = false;
+        public Shape shape;
         private Shape rangeShape;
         private List<Entity> Entities;
 
@@ -45,13 +48,16 @@ namespace Generations.Items
             shape.Origin = new Vector2f(Size, Size);
             Entities = entities;
 
-            rangeShape = new CircleShape(data.ViewRange);
-            rangeShape.OutlineColor = OutlineColor;
-            rangeShape.OutlineThickness = Outline;
-            rangeShape.FillColor = RangeColor;
-            rangeShape.Origin = new Vector2f(data.ViewRange, data.ViewRange);
+            //rangeShape = new CircleShape(data.ViewRange);
+            //rangeShape.OutlineColor = OutlineColor;
+            //rangeShape.OutlineThickness = Outline;
+            //rangeShape.FillColor = RangeColor;
+            //rangeShape.Origin = new Vector2f(data.ViewRange, data.ViewRange);
 
             Energy = EnergyDefault;
+
+            lbl_Food = new Text(FoodQuantity.ToString(), DebugSimulationData.Font, 10);
+            lbl_Food.FillColor = DebugSimulationData.FontColor;
         }
 
         private Color GetColorByData()
@@ -70,7 +76,8 @@ namespace Generations.Items
             if (!InHouse)
             {
                 Window.Draw(shape);
-                Window.Draw(rangeShape);
+                Window.Draw(lbl_Food);
+                //Window.Draw(rangeShape);
             }
         }
 
@@ -107,6 +114,9 @@ namespace Generations.Items
         {
             if (!InHouse)
             {
+                lbl_Food.DisplayedString = FoodQuantity.ToString();
+                lbl_Food.Position = Position + new Vector2f(0, 10) * shape.Scale.X;
+                lbl_Food.Scale = shape.Scale;
                 Find(Entities);
                 Act();
                 Move(GeneticData.Speed, seconds);
@@ -114,12 +124,20 @@ namespace Generations.Items
 
                 if (Energy <= 0 || Time.FinishedDay)
                 {
-                    CanDispose = true;
+                    if (FoodQuantity > 0)
+                    {
+                        FoodQuantity--;
+                        Energy = EnergyDefault;
+                    } else
+                    {
+                        CanDispose = true;
+                    }
+                    
                 }
 
                 shape.Position = Position;
                 shape.Rotation = (float)(Math.Atan(Facing.Y / Facing.X) * 180f / Math.PI);
-                rangeShape.Position = Position;
+                //rangeShape.Position = Position;
             }
             
         }
@@ -145,6 +163,11 @@ namespace Generations.Items
             {
                 Position = nextPosition;
             }
+        }
+
+        public override string ToString()
+        {
+            return "Rabbit " + Id + " is " + (!CanDispose ? "Alive" : "Dead");
         }
     }
 }
